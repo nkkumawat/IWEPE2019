@@ -11,12 +11,6 @@
 	          
 	        </div>
 	      </header>
-
-
-
-
-
-
 	      <nav class="navbar navbar-center navbar-expand-md  navbar-light  navi"  id="navbar">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -55,12 +49,6 @@
                 </ul>
             </div>
         </nav>
-
-
-
-
-
-
 	      <div class="nav-scroller py-1 mb-2" id="navbar-main">
 	        <nav class="nav d-flex navbar-inverse justify-content-between">
 	          <a class="p-2 text-secondary '.$classes[0].'" href="index.php">Home</a>

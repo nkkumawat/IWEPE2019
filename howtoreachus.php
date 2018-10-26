@@ -8,11 +8,6 @@
 
     <div class="container">
       <?php require('header.php'); showHeader(6); ?>
-      <!--  -->
-<!-- 
-      <br><br>
-      <p class="text-center font-weight-bold">Comming Soon</p>
-      <br><br> -->
       <div class="row mb-2">
           <div class="col-md-6">
             <div class="row">

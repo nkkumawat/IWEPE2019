@@ -20,7 +20,7 @@
             </a>
         </div>
         <nav class="col-sm-12 col-md-9 text-right nav-large-container">
-            <a class="nav-link" href="." title="Home">Home</a><a class="nav-link" href="schedule.php" title="Schedule">Schedule</a><a class="nav-link" href="speakers.php" title="Speakers">Speakers</a><a class="nav-link" href="sponsors.php" title="Sponsors">Sponsors</a><a class="nav-link active" href="posters.php" title="Call For Posters">Call For Posters</a><a class="nav-link" href="registration.php" title="Registration">Registration</a><a class="nav-link" href="reach.php" title="How to reach us?">How to reach us?</a><a class="nav-link" href="contact.php" title="Contact">Contact</a>        </nav>
+            <a class="nav-link " href="../index.php" title="Home">IWEPE 2019</a><a class="nav-link" href="schedule.php" title="Schedule">Schedule</a><a class="nav-link" href="speakers.php" title="Speakers">Speakers</a><a class="nav-link" href="sponsors.php" title="Sponsors">Sponsors</a><a class="nav-link active" href="posters.php" title="Call For Posters">Call For Posters</a><a class="nav-link" href="registration.php" title="Registration">Registration</a><a class="nav-link" href="reach.php" title="How to reach us?">How to reach us?</a><a class="nav-link" href="contact.php" title="Contact">Contact</a>        </nav>
     </div>
 </header>
 <nav class="nav-small-container">
