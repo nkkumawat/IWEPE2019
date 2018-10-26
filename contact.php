@@ -155,16 +155,18 @@
                     <div class="card flex-md-row mb-4 box-shadow h-md-400">
                       <div class="card-body d-flex flex-column align-items-start">
                         <strong class="d-inline-block mb-2 text-success">Student Body</strong>
-                        <div class="row">
-                            <div class="col-4">
-                              <img src="./images/students/1.jpg" class="img-thumbnail" height="200" width="200">
+                        
+
+                          <div class="row">
+                             <div class="col-4">
+                              <img src="./images/students/10.jpg" class="img-thumbnail" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>G. Sahana</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8607918434">8607918434 </a> | <a href="mailto://sahana.g2@gmail.com">sahana.g2@gmail.com</a></p>
-                              <!-- <p><a</p> -->
+                              <h6><b>Akshat Singhal</b></h6>
+                              <p>NIT Kurukshetra <br> <a href="tel://8527707845">8527707845 </a> | <a href="mailto://shuklayash00001@gmail.com">shuklayash00001@gmail.com</a></p>
                             </div>
                           </div>
+
                           <div class="row">
                              <div class="col-4">
                               <img src="./images/students/2.jpg" class="img-thumbnail" height="200" width="200">
@@ -218,6 +220,17 @@
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
+                          <div class="row">
+                             <div class="col-4">
+                              <img src="./images/students/8.jpeg" class="img-thumbnail" height="200" width="200">
+                            </div>
+                            <div class="col">
+                              <h6><b>Vikram Sachdeva </b></h6>
+                              <p>NIT Kurukshetra <br> <a href="tel://8954305273">8954305273 </a> | <a href="mailto://vikramsachdeva1997@gmail.com">vikramsachdeva1997@gmail.com</a></p>
+                              <!-- <p>fas</p> -->
+                            </div>
+                          </div>
+                          
 
                           <div class="row">
                              <div class="col-4">
@@ -229,7 +242,30 @@
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
+                          <div class="row">
+                            <div class="col-4">
+                              <img src="./images/students/1.jpg" class="img-thumbnail" height="200" width="200">
+                            </div>
+                            <div class="col">
+                              <h6><b>G. Sahana</b></h6>
+                              <p>NIT Kurukshetra <br> <a href="tel://8607918434">8607918434 </a> | <a href="mailto://sahana.g2@gmail.com">sahana.g2@gmail.com</a></p>
+                              <!-- <p><a</p> -->
+                            </div>
+                          </div>
 
+
+
+                           <div class="row">
+                             <div class="col-4">
+                              <img src="./images/students/9.jpg" class="img-thumbnail" height="200" width="200">
+                            </div>
+                            <div class="col">
+                              <h6><b>Kanika Singla</b></h6>
+                              <p>NIT Kurukshetra <br> <a href="tel://8168393540">8168393540 </a> | <a href="mailto://singla.skanika@gmail.com">singla.skanika@gmail.com</a></p>
+                              <!-- <p>fas</p> -->
+                            </div>
+                          </div>
+                           
                       </div>
                     </div>
                   </div>
