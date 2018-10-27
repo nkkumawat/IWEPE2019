@@ -14,7 +14,9 @@
               <div class="card flex-md-row mb-4 box-shadow h-md-350">
                 <div class="card-body d-flex flex-column align-items-start">
                   <strong class="d-inline-block mb-2 text-primary">Chief Guest</strong>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  
+                    comming soon
+                  <!-- <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/44.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -22,8 +24,8 @@
                       <h6><b>Dr. V. K. Saraswat </b></h6>
                       <p>Hon'ble Member NITI Aayog and Former Chief, DRDO <br>Govt. of India</p>
                     </div>
-                  </div>
-                   <!-- <div class="row speaker" onclick= "speaker('name.html');" >
+                  </div> -->
+                   <!-- <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -41,7 +43,8 @@
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start">
                 <strong class="d-inline-block mb-2 text-success">Guest of Honour</strong>
-                <div class="row speaker" onclick= "speaker('name.html');">
+                comming soon
+               <!--  <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/48.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -50,7 +53,7 @@
                       <p>Executive Director<br>IndianOil</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/49.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -58,8 +61,8 @@
                       <h6><b>Dr. S.K. Salwan</b></h6>
                       <p>DRDO<br>India</p>
                     </div>
-                  </div>
-                  <!-- <div class="row speaker" onclick= "speaker('name.html');">
+                  </div> -->
+                  <!-- <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -69,7 +72,7 @@
                       <p>fas</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -87,7 +90,8 @@
               <div class="card flex-md-row mb-4 box-shadow h-md-350">
                   <div class="card-body d-flex flex-column align-items-start">
                    <strong class="d-inline-block mb-2 text-success">Distinguished Speakers </strong>
-                <div class="row speaker" onclick= "speaker('name.html');">
+
+                <div class="row speaker" onclick= "speaker('profile.php?id=4');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/3.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -96,7 +100,9 @@
                       <p>University of Illinois at Chicago,</br>Chicago, USA</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+
+                 <!--  
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/22.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -105,8 +111,9 @@
                       <p>University of Wisconsin Milwaukee,</br>USA</p>
                       
                     </div>
-                  </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  </div> -->
+
+                  <!-- <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/8.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -115,7 +122,7 @@
                       <p>Ecole Normale Paris-Saclay,</br>France</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/14.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -123,8 +130,8 @@
                       <h6><b>Prof. Renato Machado Cotta</b></h6>
                       <p>National Commission of Nuclear Energy,</br>Brazil</p>
                     </div>
-                  </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  </div> -->
+                  <div class="row speaker" onclick= "speaker('profile.php?id=3');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/4.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -133,7 +140,8 @@
                       <p>Indian Institute of Technology Kanpur,</br>Kanpur, India</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+
+                   <!-- <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/19.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -142,7 +150,8 @@
                       <p>Instituto Tecnologico de Aeronautica,</br>Brazil</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/20.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -150,8 +159,9 @@
                       <h6><b>Prof. Mohammed El Ganaoui</b></h6>
                       <p>University of Lorraine,</br>France</p>
                     </div>
-                  </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                  </div> -->
+
+                   <div class="row speaker" onclick= "speaker('profile.php?id=2');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/2.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -161,7 +171,7 @@
                     </div>
                   </div>
 
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  <!-- <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/15.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -170,7 +180,8 @@
                       <p>Delft University of Technology,</br>The Netherlands</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/25.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -179,7 +190,8 @@
                       <p>Naval Research Laboratory,</br>USA</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+
+                  <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/12.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -189,7 +201,7 @@
                       <p>fas</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/27.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -198,7 +210,7 @@
                       <p>Lund University</br>Sweden</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/17.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -206,7 +218,8 @@
                       <h6><b>Prof. Naveen Kumar</b></h6>
                       <p>DTU,</br>New Delhi</p>
                     </div>
-                  </div>
+                  </div> -->
+
                   </div>
                 </div>
             </div>
@@ -219,7 +232,7 @@
               <div class="card-body d-flex flex-column align-items-start">
                 <strong class="d-inline-block mb-2 text-success">Distinguished Speakers </strong>
                 
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.php?id=1');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/5.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -228,7 +241,8 @@
                       <p>Indian Institute of Technology Kanpur,</br>Kanpur, India</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+
+                   <!-- <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/21.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -237,7 +251,8 @@
                       <p>Imperial College,</br>London</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/24.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -246,7 +261,7 @@
                       <p>Northeastern University,</br>USA</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/11.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -255,7 +270,7 @@
                       <p>Purdue University,</br>USA</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/13.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -264,7 +279,7 @@
                       <p>Universita' Degli Studi Della Campania,</br>Italy</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/26.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -272,8 +287,9 @@
                       <h6><b>Dr. Gabriel D. Roy</b></h6>
                       <p>CPNE Consultants,</br>USA</p>
                     </div>
-                  </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                  </div> -->
+
+                   <div class="row speaker" onclick= "speaker('profile.php?id=5');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/1.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -282,7 +298,7 @@
                       <p>Analytic & Computational Research Inc.</br>Los Angeles, USA</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+<!--                    <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/6.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -291,7 +307,7 @@
                       <p>Tokyo Institute of Technology,</br>Japan</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/28.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -300,7 +316,7 @@
                       <p>University of Maryland,</br>USA</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/38.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -309,7 +325,7 @@
                       <p>University of Maryland,</br>USA</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/39.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -318,7 +334,7 @@
                       <p>TaiCrystal Int. Technology Co. Ltd.,</br>Taiwan</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/40.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -327,7 +343,7 @@
                       <p>Japan Aerospace Exploration Agency,</br>Japan</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/41.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -336,7 +352,7 @@
                       <p>Jadavpur University Kolkata,</br>India</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/42.jpg" class="img-thumbnail" height="200" width="200">
                     </div>
@@ -345,7 +361,7 @@
                       <p>Indian Institute of Science Bengaluru,</br>India</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/23.jpg"  class="img-thumbnail" height="200" width="200">
                     </div>
@@ -354,7 +370,7 @@
                       <p>King Mongkut’s University of Technology Ladkrabang,</br>Thailand</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/45.jpg"  class="img-thumbnail" height="200" width="200">
                     </div>
@@ -363,7 +379,7 @@
                       <p>Jadavpur University Kolkata,</br>India</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');">
+                  <div class="row speaker" onclick= "speaker('profile.html');">
                     <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/46.jpg"  class="img-thumbnail" height="200" width="200">
                     </div>
@@ -372,7 +388,7 @@
                       <p>DRDL,</br>India</p>
                     </div>
                   </div>
-                   <div class="row speaker" onclick= "speaker('name.html');" >
+                   <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/47.jpg"  class="img-thumbnail" height="200" width="200">
                     </div>
@@ -381,7 +397,7 @@
                       <p>Indian Institute of Technology Kanpur,</br>India</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');" >
+                  <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/51.jpg"  class="img-thumbnail" height="200" width="200">
                     </div>
@@ -390,7 +406,7 @@
                       <p>University College London,</br>London</p>
                     </div>
                   </div>
-                  <div class="row speaker" onclick= "speaker('name.html');" >
+                  <div class="row speaker" onclick= "speaker('profile.html');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/50.jpg"  class="img-thumbnail" height="200" width="200">
                     </div>
@@ -398,7 +414,9 @@
                       <h6><b>Prof. Satya Chakravarthy</b></h6>
                       <p>Indian Institute of Technology Madras,</br>India</p>
                     </div>
-                  </div>
+                  </div> -->
+
+
               </div>
             </div>
           </div>
@@ -415,9 +433,7 @@
         <!--  -->
       </div>
     </div>
-    <footer class="blog-footer">
-      <p>&copy; 2018 - 19  <a href="https://nitkkr.ac.in">NIT KURUKSHETRA</a>.</p>
-    </footer>
+    <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

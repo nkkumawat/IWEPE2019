@@ -87,9 +87,7 @@
         <!--  -->
       </div>
     </div>
-    <footer class="blog-footer">
-      <p>&copy; 2018 - 19  <a href="https://nitkkr.ac.in">NIT KURUKSHETRA</a>.</p>
-    </footer>
+    <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
