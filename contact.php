@@ -67,7 +67,7 @@
                               <p>Mechanical Engineering Department
                               </br>National Institute of Technology Kurukshetra,
                               </br>Kurukshetra 136119</br>
-                                   <a href="mailto://pchandna08@gmail.com">pchandna08@gmail.com</a></p>
+                                   <a href="mailto:pchandna08@gmail.com">pchandna08@gmail.com</a></p>
                             </div>
                           </div>
                           <div class="row">
@@ -79,7 +79,7 @@
                               <p>Civil Engineering Department
                               </br>National Institute of Technology Kurukshetra,
                               </br>Kurukshetra 136119
-                              </br><a href="mailto://sdeswal@nitkkr.ac.in">sdeswal@nitkkr.ac.in</a></p>
+                              </br><a href="mailto:sdeswal@nitkkr.ac.in">sdeswal@nitkkr.ac.in</a></p>
                             </div>
                           </div>
                           <div class="row">
@@ -91,7 +91,7 @@
                               <p>Mechanical Engineering Department
                               </br>National Institute of Technology Kurukshetra,
                               </br>Kurukshetra 136119
-                              </br><a href="mailto://mit_vkum@nitkkr.ac.in">mit_vkum@nitkkr.ac.in</a></p>
+                              </br><a href="mailto:mit_vkum@nitkkr.ac.in">mit_vkum@nitkkr.ac.in</a></p>
                             </div>
                           </div>
                           <div class="row">
@@ -103,7 +103,7 @@
                               <p>Mechanical Engineering Department
                               </br>National Institute of Technology Kurukshetra,
                               </br>Kurukshetra 136119
-                              </br><a href="mailto://gulshansachdeva@nitkkr.ac.in">gulshansachdeva@nitkkr.ac.in</a></p>
+                              </br><a href="mailto:gulshansachdeva@nitkkr.ac.in">gulshansachdeva@nitkkr.ac.in</a></p>
                             </div>
                           </div>
                       </div>
@@ -163,7 +163,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Akshat Singhal</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8527707845">8527707845 </a> | <a href="mailto://shuklayash00001@gmail.com">shuklayash00001@gmail.com</a></p>
+                              <p>NIT Kurukshetra <br> <a href="tel://8527707845">8527707845 </a> | <a href="mailto:shuklayash00001@gmail.com">shuklayash00001@gmail.com</a></p>
                             </div>
                           </div>
 
@@ -173,7 +173,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Sanchit Gupta</b></h6>
-                              <p>NIT Kurukshetra <br><a href="tel://9958022320">9958022320 </a> | <a href="mailto://sanchit_11510612@nitkkr.ac.in">sanchit_11510612@nitkkr.ac.in</a> </p>
+                              <p>NIT Kurukshetra <br><a href="tel://9958022320">9958022320 </a> | <a href="mailto:sanchit_11510612@nitkkr.ac.in">sanchit_11510612@nitkkr.ac.in</a> </p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -184,7 +184,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Yash Gupta </b></h6>
-                              <p>NIT Kurukshetra<br> <a href="tel://7404658930">7404658930 </a> | <a href="mailto://yashlaboratoire@gmail.com">yashlaboratoire@gmail.com</a></p>
+                              <p>NIT Kurukshetra<br> <a href="tel://7404658930">7404658930 </a> | <a href="mailto:yashlaboratoire@gmail.com">yashlaboratoire@gmail.com</a></p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -194,7 +194,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Shlok Sah</b></h6>
-                              <p>NIT kurukshetra<br> <a href="mailto://shloksah123@gmail.com">shloksah123@gmail.com</a></p>
+                              <p>NIT kurukshetra<br> <a href="mailto:shloksah123@gmail.com">shloksah123@gmail.com</a></p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -205,7 +205,7 @@
                             </div>
                             <div class="col">
                               <h6><b>S. Rukmini Tejaswini</b></h6>
-                              <p>NIT KUrukshetra <br><a href="tel://8826170863">8826170863 </a> | <a href="mailto://trteju1997@gmail.com">trteju1997@gmail.com</a></p>
+                              <p>NIT KUrukshetra <br><a href="tel://8826170863">8826170863 </a> | <a href="mailto:trteju1997@gmail.com">trteju1997@gmail.com</a></p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -216,7 +216,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Narendra Kumawat</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://9660729583">9660729583 </a> | <a href="mailto://nk0kumawat@gmail.com">nk0kumawat@gmail.com</a></p>
+                              <p>NIT Kurukshetra <br> <a href="tel://9660729583">9660729583 </a> | <a href="mailto:nk0kumawat@gmail.com">nk0kumawat@gmail.com</a></p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -226,7 +226,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Vikram Sachdeva </b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8954305273">8954305273 </a> | <a href="mailto://vikramsachdeva1997@gmail.com">vikramsachdeva1997@gmail.com</a></p>
+                              <p>NIT Kurukshetra <br> <a href="tel://8954305273">8954305273 </a> | <a href="mailto:vikramsachdeva1997@gmail.com">vikramsachdeva1997@gmail.com</a></p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -238,7 +238,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Yash</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://7206268094">7206268094 </a> | <a href="mailto://shuklayash00001@gmail.com">shuklayash00001@gmail.com</a></p>
+                              <p>NIT Kurukshetra <br> <a href="tel://7206268094">7206268094 </a> | <a href="mailto:shuklayash00001@gmail.com">shuklayash00001@gmail.com</a></p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -248,7 +248,7 @@
                             </div>
                             <div class="col">
                               <h6><b>G. Sahana</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8607918434">8607918434 </a> | <a href="mailto://sahana.g2@gmail.com">sahana.g2@gmail.com</a></p>
+                              <p>NIT Kurukshetra <br> <a href="tel://8607918434">8607918434 </a> | <a href="mailto:sahana.g2@gmail.com">sahana.g2@gmail.com</a></p>
                               <!-- <p><a</p> -->
                             </div>
                           </div>
@@ -261,7 +261,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Kanika Singla</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8168393540">8168393540 </a> | <a href="mailto://singla.skanika@gmail.com">singla.skanika@gmail.com</a></p>
+                              <p>NIT Kurukshetra <br> <a href="tel://8168393540">8168393540 </a> | <a href="mailto:singla.skanika@gmail.com">singla.skanika@gmail.com</a></p>
                               <!-- <p>fas</p> -->
                             </div>
                           </div>
@@ -675,9 +675,7 @@
     </div>
 
 
-    <footer class="blog-footer">
-      <p>&copy; 2018 - 19  <a href="https://nitkkr.ac.in">NIT KURUKSHETRA</a>.</p>
-    </footer>
+    <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

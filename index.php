@@ -34,7 +34,7 @@
                       <a href="https://www.nsf.gov/" target="_blank"><img src="./images/nsf.jpg" class="img-thumbnail" height="200" width="200"></a>
                     </div>
                     <div class="col">
-                      <img src="./images/agr.jpg" class="img-thumbnail" height="200" width="200">
+                      <a href="https://acricfd.com" target="_blank"><img src="./images/agr.jpg" class="img-thumbnail" height="200" width="200"></a>
                     </div>
                   </div>
                 </div>
@@ -45,7 +45,8 @@
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start text-justify">
                 <strong class="d-inline-block mb-2 text-success">NIT Kurukshetra</strong>
-                <p> <small>National Institute of Technology Kurukshetra  enjoys the reputation of being a centre of excellence, facilitating quality technical and management education, research and training. It has been conferred the status of being an Institution of National Importance. Established in the year 1963, NITK has made rapid strides toward excellence. The institute recognizes the significance of Institute-industry Interface and promotes interaction with the industry through student placements, consultancy services, joint research projects and jointly organizing workshops, seminars, conferences, etc. Further strengthening of this bond with the industry is currently a matter of priority for the institute. NITK offers undergraduate (B. Tech.) as well as post graduate (M. Tech.) programs in Civil, Computer Science, Electrical, Electronics and Communication, Mechanical Engineering, Production and Industrial Engineering, Information Technology and Master of Business Administration (MBA) – Marketing, Finance, Human Resource Management, Information Technology along with programs in Engineering, Technology, Applied Sciences, and Humanities & Social Sciences at doctorate level. The institute also offers excellent facilities for advanced research in the emerging areas of science and technology. </small> </p>
+                <p> <small><b>National Institute of Technology Kurukshetra</b>  enjoys the reputation of being a centre of excellence, facilitating quality technical and management education, research and training. It has been conferred the status of being an Institution of National Importance. Established in the year 1963, NITK has made rapid strides toward excellence. The institute recognizes the significance of institute-industry interface and promotes interaction with the industry through student placements, consultancy services, joint research projects and jointly organizing workshops, seminars, conferences, etc. Further strengthening of this bond with the industry is currently a matter of priority for the institute.
+                 NITK offers undergraduate (B. Tech.) as well as postgraduate (M. Tech.) programs in Civil, Computer Science, Electrical, Electronics and Communication, Mechanical Engineering, Production and Industrial Engineering, Information Technology. This institute also offers Master of Business Administration (MBA) programs in Marketing, Finance, Human Resource Management, Information Technology along with programs in Engineering, Technology, Applied Sciences, and Humanities & Social Sciences at the doctorate level.  The institute also offers excellent facilities for advanced research in the emerging areas of science and technology. </small> </p>
               </div>
             </div>
           </div>
@@ -57,7 +58,7 @@
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start text-justify">
                 <strong class="d-inline-block mb-2 text-success">The Workshop </strong>
-                <p> <small>National Institute of Technology Kurukshetra organizing an <b>International Workshop on Energy, Power and Environment (IWEPE-2019)</b> to be held at National Institute of Technology (NIT), Kurukshetra during March 17-19, 2019. This event will be organized in collaboration with Indian Institute of Technology (IIT) Kanpur, University of Maryland, College Park, University of Illinois at Chicago, Analytic & Computational Research Inc. USA. This is the 10th in a series of workshops on the broad theme of Energy, Power and Propulsion that started in 2004 with a review of the Status of Combustion in India and has evolved into a forum for the status of Sustainable Energy Development for Power and Propulsion worldwide.<br/>
+                <p> <small>National Institute of Technology Kurukshetra is organizing an <b>International Workshop on Energy, Power and Environment (IWEPE-2019)</b> during<b> March 17-19, 2019</b>. This event will be organized in collaboration with Indian Institute of Technology (IIT) Kanpur, University of Maryland, College Park, University of Illinois at Chicago, Analytic & Computational Research Inc. USA. This is the 10th in a series of workshops on the broad theme of Energy, Power and Propulsion that started in 2004 with a review of the Status of Combustion in India and has evolved into a forum for the status of Sustainable Energy Development for Power and Propulsion worldwide.<br/>
                 For this year, the general theme is Clean Energy Production & Utilization. We expect to have contributions from world-renowned experts on topics that include Power, Propulsion, Pulse Detonation, Environmental Sustainability, Combustion, Emissions, Advanced Diagnostics etc. The program will comprise of a number of invited/plenary talks, panel sessions, a poster session and a session on research-in-progress. More than 150 delegates (International/ National) are expected to participate in this workshop. </small> </p>
               </div>
             </div>
@@ -66,9 +67,14 @@
                 <div class="card flex-md-row mb-4 box-shadow h-md-350">
                   <div class="card-body d-flex flex-column align-items-start text-justify">
                     <strong class="d-inline-block mb-2 text-primary">Highlights</strong>
-                     <small> <ol> <li>Invited lectures by renowned experts in the field of energy and combustion from across the globe.</li>
-                      <li>Two days exclusive course covering basic fundamentals to advance research in the domain of energy conversion.</li>
-                     <li> Poster presentation competition for students.</li></ol></small>
+                     <small> <ul> 
+                      <li>Invited talks by renowned experts in the field of energy and combustion from across the globe.</li>
+                      <li>Discussion on collaborative research proposal.</li>
+                      <li>???</li>
+                     <li> Poster presentation competition for students.</li>
+                     <li>Monographs, Books, ?</li>
+
+                   </ul></small>
                   </div>
                 </div>
             </div>
@@ -84,9 +90,7 @@
         <!--  -->
       </div>
     </div>
-    <footer class="blog-footer">
-      <p>&copy; 2018 - 19  <a href="https://nitkkr.ac.in">NIT KURUKSHETRA</a>.</p>
-    </footer>
+    <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
