@@ -116,7 +116,7 @@
                         <li>Company logo on the main backdrop of the workshop as an exclusive sponsor.</li>
                         <li>Company logo at other prominent places at the workshop venue.</li>
                         <li>Company logo on event website with a hyper link to company website.</li>
-                        <li>Company Brochure in the delegate kit (in CD/DVD or USB Drive only).</li>
+                        <li>Company information in the delegate kit (in CD/DVD or USB Drive only).</li>
                       </ul>
                     </small>
                   </div>
@@ -126,9 +126,9 @@
                 <div class="card flex-md-row mb-4 box-shadow h-md-350">
                   <div class="card-body d-flex flex-column align-items-start text-justify">
                     <strong class="d-inline-block mb-2 text-primary">Payment</strong>
-                     <small>   Payment can be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Email the scanned copy of Demand Draft/Cheque on <b>isepp2018@gmail.com</b>.
+                     <small>   Payment can be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Email the scanned copy of Demand Draft/Cheque on <b>iwepe2019@nitkkr.ac.in</b>.
 
-                      Payment can also be made through Online money transfer. Email the payment receipt on <b>isepp2018@gmail.com</b>. </small>
+                      Payment can also be made through Online money transfer. Email the payment receipt on <b>iwepe2019@nitkkr.ac.in</b>. </small>
                   </div>
                 </div>
             </div>

@@ -64,5 +64,9 @@
 	.row {
 	margin: 0px;
 	}
+	.nitimage {
+		width: 100px;
+		height: 100px;
+	}
 
 }

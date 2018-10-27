@@ -1,6 +1,6 @@
 <?php
 	function showHeader($tab) {
-        $classes = array("" , "", "", "","","","","","");
+        $classes = array("" , "", "", "","","","","","" , "" , "");
         $classes[$tab] = "text-success font-weight-bold underline-text ";
 		echo '<header class="blog-header py-3">
 	        <div class="row flex-nowrap justify-content-between align-items-center">
@@ -66,7 +66,7 @@
 	      <div class="jumbotron p-3 p-md-5 text-white justify-content-between rounded bg-dark">
 	        <div class="row">
 	        <div class="col-sm-12 col-md-1 text-center center  px-0">
-	          <img src="./images/nit.png" width="150" height="150">
+	          <img src="./images/nit.png" width="150" height="150" class="nitimage">
 	        </div><div class="col-md-1 col-sm-0"></div>
 	        <div class="col-md-10 col-sm-12  px-0 text-workshop">
 	          <h4 class="display-6 workshop-text text-center"> <b>INTERNATIONAL WORKSHOP</b> on <b>ENERGY, POWER & ENVIRONMENT</b></h4>
