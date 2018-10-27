@@ -27,7 +27,7 @@
 
                       The abstracts for the posters must follow the guidelines layed out in this template.<br>
 
-                      They must submitted by emailing them to <b>isepp2018@gmail.com </b>on or before 25th Feb 2019. </small>
+                      They must submitted by emailing them to <b>iwepe2019@nitkkr.ac.in </b>on or before 25th Feb 2019. </small>
 
 
                   </p>

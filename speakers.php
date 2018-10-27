@@ -93,7 +93,7 @@
 
                 <div class="row speaker" onclick= "speaker('profile.php?id=4');">
                     <div class="col-4">
-                      <img src="./isepp2018/resources/drawable/speakers/3.jpg" class="img-thumbnail" height="200" width="200">
+                      <img src="./isepp2018/resources/drawable/speakers/3.jpg" class="img-thumbnail" height="150" width="150">
                     </div>
                     <div class="col">
                       <h6><b>Prof. Suresh Aggarwal</b></h6>

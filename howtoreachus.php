@@ -75,7 +75,7 @@
                     <li><a class="" href="tel:+91 9812533221">+91 9812533221</a> </li>
                   </ul>
                   <strong class="d-inline-block mb-2 text-dark">Email </strong>
-                  <a class="" href="mailto:isepp2018@gmail.com" >isepp2018@gmail.com</a>
+                  <a class="" href="mailto:isepp2018@gmail.com" >iwepe2019@nitkkr.ac.in</a>
                 </small> </p>
               </div>
             </div>
