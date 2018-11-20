@@ -2,12 +2,13 @@
 <html lang="en">
   <head>
     <?php require("include.php");?>
+  
   </head>
 
   <body>
-
+    <?php require('header.php'); showHeader(7); ?>
     <div class="container">
-       <?php require('header.php'); showHeader(7); ?>
+       
 
        <ul class="nav nav-tabs nav-justified" role="tablist">
         <li class="nav-item col">
@@ -80,6 +81,30 @@
                               </br>National Institute of Technology Kurukshetra,
                               </br>Kurukshetra 136119
                               </br><a href="mailto:sdeswal@nitkkr.ac.in">sdeswal@nitkkr.ac.in</a></p>
+                            </div>
+                          </div>
+                          <div class="row">
+                             <div class="col-4">
+                              <img src="./images/mah.jpg" class="img-thumbnail" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <h6><b>Pro. Mahesh Pal</b></h6>
+                              <p>Civil Engineering Department
+                              </br>National Institute of Technology Kurukshetra,
+                              </br>Kurukshetra 136119
+                              </br><a href="mailto:mahesh.pal@nitkkr.ac.in ">mahesh.pal@nitkkr.ac.in </a></p>
+                            </div>
+                          </div>
+                          <div class="row">
+                             <div class="col-4">
+                              <img src="./images/sat.jpg" class="img-thumbnail" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <h6><b>Pro. Sathans</b></h6>
+                              <p>Electrical Engineering Department
+                              </br>National Institute of Technology Kurukshetra,
+                              </br>Kurukshetra 136119
+                              </br><a href="mailto:sathans@nitkkr.ac.in">sathans@nitkkr.ac.in </a></p>
                             </div>
                           </div>
                           <div class="row">
@@ -163,7 +188,7 @@
                             </div>
                             <div class="col">
                               <h6><b>Akshat Singhal</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8527707845">8527707845 </a> | <a href="mailto:shuklayash00001@gmail.com">shuklayash00001@gmail.com</a></p>
+                              <p>NIT Kurukshetra <br> <a href="tel://8527707845">8527707845 </a> | <a href="mailto:singhal1175@outlook.com">singhal1175@outlook.com</a></p>
                             </div>
                           </div>
 
@@ -419,9 +444,12 @@
 
 
         <div role="tabpanel" class="tab-pane fade in  padding-container" id="international">
-
+           <br><br>
+            <p class="text-center font-weight-bold">Comming Soon</p>
+            <br><br>
           <div class="row mb-2">
-             <div class="col-md-6">
+
+             <!-- <div class="col-md-6">
                    <div class="row">
                     <div class="card flex-md-row mb-4 box-shadow h-md-400">
                       <div class="card-body d-flex flex-column align-items-start">
@@ -542,11 +570,11 @@
                     </div>
                   </div>
                   
-                </div>
+                </div> -->
 
                   
                 <!-- second half  -->
-                <div class="col-md-6">
+                <!-- <div class="col-md-6">
                   <div class="row">
                       <div class="card flex-md-row mb-4 box-shadow h-md-350">
                         <div class="card-body d-flex flex-column align-items-start">
@@ -664,7 +692,7 @@
                         </div>
                       </div>
                     </div>
-                                    
+                             -->        
                 </div> 
                 <!--  -->
               </div>

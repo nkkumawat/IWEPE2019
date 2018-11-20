@@ -5,9 +5,9 @@
   </head>
 
   <body>
-
+    <?php require('header.php'); showHeader(1); ?>
     <div class="container">
-       <?php require('header.php'); showHeader(1); ?>
+       
 
       <br><br>
       <p class="text-center font-weight-bold">Comming Soon</p>

@@ -4,8 +4,9 @@
     <?php require("include.php");?>
   </head>
   <body>
+    <?php require('header.php'); showHeader(3); ?>
     <div class="container">
-      <?php require('header.php'); showHeader(3); ?>
+      
       <div class="row mb-2">
           <div class="col-md-6">
             <div class="row">
@@ -126,9 +127,9 @@
                 <div class="card flex-md-row mb-4 box-shadow h-md-350">
                   <div class="card-body d-flex flex-column align-items-start text-justify">
                     <strong class="d-inline-block mb-2 text-primary">Payment</strong>
-                     <small>   Payment can be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Email the scanned copy of Demand Draft/Cheque on <b>iwepe2019@nitkkr.ac.in</b>.
+                     <small>   Payment can be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Email the scanned copy of Demand Draft/Cheque on <b class="text-primary">iwepe2019@nitkkr.ac.in</b>.
 
-                      Payment can also be made through Online money transfer. Email the payment receipt on <b>iwepe2019@nitkkr.ac.in</b>. </small>
+                      Payment can also be made through Online money transfer. Email the payment receipt on <b class="text-primary">iwepe2019@nitkkr.ac.in</b>. </small>
                   </div>
                 </div>
             </div>
