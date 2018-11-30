@@ -22,7 +22,7 @@
                        <a href="http://www.uic.edu/" target="_blank"><img src="./images/uic.jpg" class="img-thumbnail" height="200" width="200" ></a>
                     </div>
                     <div class="col">
-                      <a href="https://www.onr.navy.mil/" target="_blank"><img src="./images/onr-global.jpg" class="img-thumbnail" height="300" width="200" style="padding-top: 30px; padding-bottom: 30px;"></a>
+                      <a href="https://www.onr.navy.mil/" target="_blank"><img src="./images/onr-global.jpg" class="img-thumbnail" height="300" width="200" ></a>
                     </div>
                   </div>
                   <div class="row">
