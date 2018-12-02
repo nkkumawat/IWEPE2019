@@ -88,7 +88,7 @@
                               <img src="./images/mah.jpg" class="img-thumbnail" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Pro. Mahesh Pal</b></h6>
+                            <h6><b>Prof. Mahesh Pal</b></h6>
                               <p>Civil Engineering Department
                               </br>National Institute of Technology Kurukshetra,
                               </br>Kurukshetra 136119
@@ -100,7 +100,7 @@
                               <img src="./images/sat.jpg" class="img-thumbnail" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Pro. Sathans</b></h6>
+                            <h6><b>Prof. Sathans</b></h6>
                               <p>Electrical Engineering Department
                               </br>National Institute of Technology Kurukshetra,
                               </br>Kurukshetra 136119

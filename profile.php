@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <?php require('header.php'); showHeader(9); ?>
+    <?php require('header.php'); showHeader(10); ?>
     <div class="container">
       
 <!-- 

@@ -4,7 +4,7 @@
     <?php require("include.php");?>
   </head>
   <body>
-    <?php require('header.php'); showHeader(9); ?>
+    <?php require('header.php'); showHeader(10); ?>
     <div class="container">
       <div class="row mb-2">
           <div class="col-md-12">

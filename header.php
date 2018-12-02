@@ -58,11 +58,12 @@
                 <li class="nav-item ">
                     <a class="nav-link '.$classes[7].'" href="./contact.php">Contact</a>
                 </li>
-                 <li class="nav-item ">
-                    <a class="nav-link '.$classes[8].'" href="./isepp2018/index.html">ISEPP 2018</a>
-                </li>
+                 
                 <li class="nav-item ">
                     <a class="nav-link '.$classes[9].'" href="gallery.php">Gallery</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link '.$classes[8].'" href="./isepp2018/index.html">ISEPP 2018</a>
                 </li>
                 
                 </ul>
@@ -78,8 +79,9 @@
 	          <a class="p-2 navlink-a '.$classes[5].'" href="registration.php">Registration</a>
 	          <a class="p-2 navlink-a '.$classes[6].'" href="howtoreachus.php">How to Reach Us</a>
 	          <a class="p-2 navlink-a '.$classes[7].'" href="contact.php">Contact</a>
+              <a class="p-2 navlink-a '.$classes[9].'" href="gallery.php">Gallery</a>
               <a class="p-2 navlink-a '.$classes[8].'" href="isepp2018/index.html">ISEPP 2018</a>
-	          <a class="p-2 navlink-a '.$classes[9].'" href="gallery.php">Gallery</a>
+	          
 	        </nav>
 	      </div>
 	        <div class="jumbotron p-3 p-md-5 text-white justify-content-between rounded " style="background: transparent;">

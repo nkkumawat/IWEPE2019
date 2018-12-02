@@ -1,10 +1,21 @@
-.text-workshop>h4 , body, .speaker>.col>h6 ,.speaker>.col>p , .col>h6 ,.col>p, #workshop-name {
+.text-workshop>h4 , body, .speaker>.col>h6 ,.speaker>.col>p , .col>h6 ,.col>p, #workshop-name , h4 , h5, h6{
 	 font-family: "Roboto", serif;
 }
 
 .top-header, .blog-footer {
 
 	background: radial-gradient(ellipse at right bottom, #2c2f4c 0%, #272946 64%, #0a0b19 121%);
+}
+
+footer {
+	font-size: 12px;
+}
+
+.theme-color {
+	color: #03c9a9 !important;
+}
+.theme-hr {
+	background-color: #03c9a9 !important;
 }
 
 .header-top {
