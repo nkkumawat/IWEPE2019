@@ -1,7 +1,58 @@
-.text-workshop>h4 , body, .speaker>.col>h6 ,.speaker>.col>p , .col>h6 ,.col>p {
+.text-workshop>h4 , body, .speaker>.col>h6 ,.speaker>.col>p , .col>h6 ,.col>p, #workshop-name , h4 , h5, h6{
 	 font-family: "Roboto", serif;
 }
 
+.top-header, .blog-footer {
+
+	background: radial-gradient(ellipse at right bottom, #2c2f4c 0%, #272946 64%, #0a0b19 121%);
+}
+
+footer {
+	font-size: 12px;
+}
+
+.theme-color {
+	color: #03c9a9 !important;
+}
+.theme-hr {
+	background-color: #03c9a9 !important;
+}
+
+.header-top {
+	/*background-image: url("../images/dots11.png");*/
+	/*opacity: .1;*/
+	 background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    background-position: center; 
+    /*opacity: .5;*/
+}
+.navbar-toggler {
+	background-color: #03c9a9 !important;
+}
+.blog-header-logo, .nav-link, .navlink-a, .footer-text  {
+	color: #03c9a9 !important;
+}
+.blog-header-logo, .navlink-a {
+	text-decoration: none;
+}
+.navlink-a:hover{
+	/*font-size: 1.02em;*/
+	text-decoration: none;
+
+}
+.nav-txt, .card {
+	/*background-color: #03c9a9;*/
+	/*background: radial-gradient(ellipse at right bottom, #2c2f4c 0%, #272946 64%, #0a0b19 121%);
+	color: #ffffff;*/
+	/*background-color: transparent;*/
+}
+/*{
+	background-color: transparent;
+}
+*/
+.nav-success {
+	color: ;
+}
 .row {
 	margin: 5px;
 }
@@ -15,7 +66,7 @@
 	cursor: pointer;
 }
 .underline-text  {
-	border-bottom: 2px solid  #41b032 ;
+	border-bottom: 3px solid  #03c9a9 ;
 }
 #navbar {
 	display: none;

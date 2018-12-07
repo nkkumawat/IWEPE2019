@@ -5,9 +5,9 @@
   </head>
 
   <body>
-
+    <?php require('header.php'); showHeader(2); ?>
     <div class="container">
-       <?php require('header.php'); showHeader(2); ?>
+       
       <div class="row mb-2">
           <div class="col-md-6">
             <div class="row">

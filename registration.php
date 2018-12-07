@@ -2,13 +2,32 @@
 <html lang="en">
   <head>
     <?php require("include.php");?>
+    <style type="text/css">
+      ul li:before { content: '✓'; }  
+      ul {
+   list-style: none;
+    }
+    li {
+      position: relative;
+      padding-left: 20px;
+    }
+    li:before {
+      position: absolute;
+      top: 5px;
+      left: 0;
+      content: ' ';
+      width: 50px;
+      height: 50px;
+     
+    }
+    </style>
   </head>
 
   <body>
-
+    <?php require('header.php'); showHeader(5); ?>
     <div class="container">
 
-      <?php require('header.php'); showHeader(5); ?>
+      
 
       <div class="row mb-2">
           <div class="col-md-6">
@@ -23,8 +42,8 @@
                   **Students/ Research scholars should supply proof of full-time Student/Research scholar’s status from the University to claim student rates. <br>
                   <br><br>
                   <ul>
-                  <li> Make payment through SBI Collect and fill the Online Registration Form after payment. Guidelines to pay from SBI Collect can be found here.</li>
-                  <li>Payment can also be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Send the original Demand Draft/Cheque along with the Registration Form through post to the following address -<b> Prof. Pankaj Chandna, Mechanical Engg. Dept., NIT Kurukshetra, Haryana, 136119 </b></li></ul>
+                  <li> Make payment through <a href="https://www.onlinesbi.com/prelogin/icollecthome.htm">SBI Collect</a> and fill the <a href="./docs/IWEPE2019-RegistrationForm.pdf" class="text-bold">Online Registration Form</a> after payment. Guidelines to pay from SBI Collect can be found <a href="./docs/IWEPE2019-SBICollect.pdf">here</a>.</li>
+                  <li>Payment can also be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Send the original Demand Draft/Cheque along with the <a href="./docs/IWEPE2019-RegistrationForm.pdf">Registration Form</a> through post to the following address -<b> Prof. Pankaj Chandna, Mechanical Engg. Dept., NIT Kurukshetra, Haryana, 136119 </b></li></ul>
 
                 </small>
                 </div>
@@ -89,7 +108,7 @@
                 <p> <small> Accommodation for student delegates may be arranged in the institute hostel at a nominal price of Rs. 300/- per day (MAP) on twin sharing basis. The room allotment for the students may be found Here. </small><br/><p>Delegates</p><small>
                  Limited accommodation for the delegates is available in the NIT Kurukshetra / Kurukshetra University Guest House on twin sharing basis.<br>
 
-                There are various good hotels available in the Kurukshetra City (Within 10 KM) in the range of Rs. 1000/- to Rs. 4000/- per day. Pertinent to mention that pick and drop facility will be provided by the organizers.<br>
+                There are various <a href="./docs/Hotels.pdf">good hotels</a> available in the Kurukshetra City (Within 10 KM) in the range of Rs. 1000/- to Rs. 4000/- per day. Pertinent to mention that pick and drop facility will be provided by the organizers.<br>
 
                 Please note that the delegates will have to bear the accommodation related expenses.<br></small> </p>
               </div>

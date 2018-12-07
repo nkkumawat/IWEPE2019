@@ -5,10 +5,9 @@
   </head>
 
   <body>
-
+    <?php require('header.php'); showHeader(0); ?>
     <div class="container">
-      <?php require('header.php'); showHeader(0); ?>
-
+      
       <div class="row mb-2">
           <div class="col-md-6">
             <div class="row">
@@ -20,10 +19,10 @@
                       <a href="https://www.umd.edu/" target="_blank"><img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200"></a>
                     </div>
                     <div class="col">
-                       <a href="http://www.uic.edu/" target="_blank"><img src="./images/uic.jpg" class="img-thumbnail" height="200" width="200"></a>
+                       <a href="http://www.uic.edu/" target="_blank"><img src="./images/uic.jpg" class="img-thumbnail" height="200" width="200" ></a>
                     </div>
                     <div class="col">
-                      <a href="https://www.onr.navy.mil/" target="_blank"><img src="./images/onr-global.jpg" class="img-thumbnail" height="300" width="200"></a>
+                      <a href="https://www.onr.navy.mil/" target="_blank"><img src="./images/onr-global.jpg" class="img-thumbnail" height="300" width="200" ></a>
                     </div>
                   </div>
                   <div class="row">
@@ -40,7 +39,6 @@
                 </div>
               </div>
             </div>
-            
              <div class="row">
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start text-justify">
@@ -50,10 +48,68 @@
               </div>
             </div>
           </div>
+          <div class="row">
+                <div class="card flex-md-row mb-4 box-shadow h-md-350">
+                  <div class="card-body d-flex flex-column align-items-start text-justify">
+                    <strong class="d-inline-block mb-2 text-primary">Who should attend?</strong>
+                     <small>  Researchers and engineers from academia, R&D organizations and industries working in the areas of fuels, energy, combustion, power, propulsion, hypersonics, air pollution, sensors and diagnostics, modeling, fossil- and bio-fuels, alternative energy, energy-water nexus, droplets and atomization, novel combustion concepts, engine combustion, gas turbine combustion, swirl flows and other related areas. </small>
+                  </div>
+                </div>
+            </div>
+
+
         </div>
 
         <!-- second half  -->
         <div class="col-md-6">
+
+           <div class="row">
+            <div class="card flex-md-row mb-4 box-shadow h-md-400">
+              <div class="card-body d-flex flex-column align-items-start text-justify">
+                <strong class="d-inline-block mb-2 text-success">Gallery </strong>
+                 <div id="carouselExampleIndicators" class="carousel slide rounded" data-ride="carousel">
+                  <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                  </ol>
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img class="d-block w-100 rounded" src="./images/drawable/gallery/small/1.jpg" alt="First slide">
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100 rounded" src="./images/drawable/gallery/small/2.jpg" alt="Second slide">
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100 rounded" src="./images/drawable/gallery/small/3.jpg" alt="Third slide">
+                    </div>
+                    <div class="carousel-item ">
+                      <img class="d-block w-100 rounded" src="./images/drawable/gallery/small/4.jpg" alt="Fouth slide">
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100 rounded" src="./images/drawable/gallery/small/5.jpg" alt="Fifth slide">
+                    </div>
+                    <div class="carousel-item">
+                      <img class="d-block w-100 rounded" src="./images/drawable/gallery/small/6.jpg" alt="Sixth slide">
+                    </div>
+                  </div>
+                  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+              </div>
+            </div>
+          </div>
+
+
+
            <div class="row">
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start text-justify">
@@ -70,19 +126,10 @@
                      <small> <ul> 
                       <li>Invited talks by renowned experts in the field of energy and combustion from across the globe.</li>
                       <li>Discussion on collaborative research proposal.</li>
-                      <li>???</li>
+                      <li>Enhncing International Relations.</li>
                      <li> Poster presentation competition for students.</li>
-                     <li>Monographs, Books, ?</li>
-
+                     <li>Monographs, Books, Chapters.</li>
                    </ul></small>
-                  </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="card flex-md-row mb-4 box-shadow h-md-350">
-                  <div class="card-body d-flex flex-column align-items-start text-justify">
-                    <strong class="d-inline-block mb-2 text-primary">Who should attend?</strong>
-                     <small>  Researchers and engineers from academia, R&D organizations and industries working in the areas of fuels, energy, combustion, power, propulsion, hypersonics, air pollution, sensors and diagnostics, modeling, fossil- and bio-fuels, alternative energy, energy-water nexus, droplets and atomization, novel combustion concepts, engine combustion, gas turbine combustion, swirl flows and other related areas. </small>
                   </div>
                 </div>
             </div>
@@ -90,6 +137,7 @@
         <!--  -->
       </div>
     </div>
+  </div>
     <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->
