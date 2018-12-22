@@ -3,30 +3,45 @@
 echo '<footer class="blog-footer">
 		<div class="row">
 			<div class="col-md-1"></div>
-			<div class="col-md-3 col-sm-12" style="text-align:left;">
-			<h6 class=" theme-color"> NIT Kurukshetra</h6>
-			<p class="float-left">
-
-			National Institute of Technology Kurukshetra enjoys the reputation of being a centre of excellence, facilitating quality technical and management education, research and training. It has been conferred the status of being an Institution of National Importance.
-				<a class="theme-color" href="http://nitkkr.ac.in" target="_blank">Rad more...</a>
-
-			</p><br><br><br><br>
+			<div class="col-md-4 col-sm-12 left-text" >
+			<h6 class=" theme-color"> Contact Us</h6>
+			<p >
+			    Training and Placement Cell<br>
+			    National Institute of Technology | Kurukshetra<br>
+			    Kurukshetra | 136119 | India<br>
+			    Telephone: +91 1744 238491 | +91 1744 233302
+			</p>
 			</div>
-			<div class="col-md-5 col-sm-12">
+
+			<div class="col-md-4 col-sm-12 left-text" >
 				<p>&copy; 2018 - 19  <a class="footer-text" href="https://nitkkr.ac.in"> NIT KURUKSHETRA</a>
       			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a class="footer-text"  href="downloads.php" > DOWNLOADS</a>
-      		</p><br><br>
+      		</p>
 			</div>
-			<div class="col-md-3 col-sm-12" style="text-align:left;">
-			<h6 class=" theme-color"> Contact Us</h6>
-			<p class="float-left">
-			    Training and Placement Cell<br>
-			    National Institute of Technology Kurukshetra<br>
-			    Kurukshetra 136119, India<br>
-			    Telephone: +91 1744 238491, +91 1744 233302
-			</p><br><br>
+			<div class="col-md-3 col-sm-12 left-text" >
+			<h6 class=" theme-color"> Quick Links</h6>
+				<a href="./downloads.php" class="theme-color">Downloads</a><br>
+				<a href="./gallery.php" class="theme-color">Gallery</a><br>
+				<a href="./isepp2018/index.html" class="theme-color"> ISEPP 2018</a>
 			</div>
 		</div>
-	  </footer>'
+	  </footer>
+
+	 <!-- <div class="floating-button">
+	  	<a href="./downloads.php" > <img style="margin:12px; " height="25" width = "25"  src="./images/dw.png"></a>
+	  </div> -->
+
+
+	  ';
+
+
+	  $file = fopen("visits.txt", "r");
+	  $visits = fgets($file);
+	  // echo $visits ;
+	  fclose($file);
+	  $file = fopen("visits.txt", "w");
+	  // echo "string";
+	  fwrite($file, $visits +1);
+	  fclose($file);
 
 ?>

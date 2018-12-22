@@ -10,7 +10,7 @@
        
 
       <br><br>
-      <p class="text-center font-weight-bold">Comming Soon</p>
+      <p class="text-center font-weight-bold">Coming Soon</p>
       <br><br>
       <div class="row mb-2">
           <div class="col-md-6">
@@ -86,7 +86,7 @@
         </div>
         <!--  -->
       </div>
-    </div>
+    </div><br><br><br><br><br><br><br><br><br><br><br><br>
     <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->

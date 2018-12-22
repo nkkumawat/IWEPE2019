@@ -8,60 +8,53 @@
     <div class="container">
       
       <div class="row mb-2">
-          <div class="col-md-6">
-            <div class="row">
-              <div class="card flex-md-row mb-4 box-shadow h-md-350">
-                <div class="card-body d-flex flex-column align-items-start">
-                  <strong class="d-inline-block mb-2 text-primary">Sponsorship Opportunities</strong>
-                  <div class="row">
-                    <div class="col text-center ">
-                      <div class="container shadow-none p-3 mb-5 bg-danger rounded text-white">
-                       <h5><b>Platinum Sponsor</b></h5>
-                       <h6> Rs. 3.0 Lakh and above</h6>
-                       <h6> Registration free for 5 members</h6>
-                      </div>
-                    </div>
-                    <div class="col text-center ">
-                      <div class="container shadow-none p-3 mb-5 bg-info rounded text-white">
-                       <h5><b>Diamond Sponsor</b></h5>
-                       <h6> Rs. 2.0 - 2.99 Lakh </h6>
-                       <h6> Registration free for 3 members</h6>
-                      </div>
-                    </div>
-                    
-                  </div>
-                  <div class="row">
-                    <div class="col text-center ">
-                      <div class="container shadow-none p-3 mb-5 bg-warning rounded text-white">
-                       <h5><b>Gold Sponsor</b></h5>
-                       <h6> Rs. 1.0 - 1.99 Lacs </h6>
-                       <h6> Registration free for 2 members</h6>
-                      </div>
-                    </div>
-                    <div class="col text-center ">
-                      <div class="container shadow-none p-3 mb-5 bg-secondary rounded text-white">
-                       <h5><b>Silver Sponsor</b></h5>
-                       <h6> Rs. 0.5 - 1.0 lakh </h6>
-                       <h6> Registration free for 1 members</h6>
-                      </div>
-                    </div>
-                    
-                  </div>
-                </div>
+          
+
+        <!-- second half  -->
+        <div class="col-md-6">
+           <div class="row">
+            <div class="card flex-md-row mb-4 box-shadow h-md-400">
+              <div class="card-body d-flex flex-column align-items-start text-justify">
+                <strong class="d-inline-block mb-2 text-success">Sponsorship Opportunities </strong>
+                <p> <small>The workshop organizers are seeking sponsors and industrial support and offer the best stage for the event in terms of additional activates. Sponsorship of IWEPE 2019’ provides a sponsor or an organization with a unique opportunity to increase its visibility and product awareness within a highly specialized and influential community. The organizers present a wide spectrum of sponsorship. </small> </p>
               </div>
             </div>
-            <!-- <div class="">No shadow</div> -->
-            
-             <div class="row">
+          </div>
+          <div class="row">
+                <div class="card flex-md-row mb-4 box-shadow h-md-350">
+                  <div class="card-body d-flex flex-column align-items-start text-justify">
+                    <strong class="d-inline-block mb-2 text-primary">Sponsorship Benefits</strong>
+                     <small><ul> 
+                        <li>Company logo on the main backdrop of the workshop as an exclusive sponsor.</li>
+                        <li>Company logo at other prominent places at the workshop venue.</li>
+                        <li>Company logo on event website with a hyper link to company website.</li>
+                        <li>Company information in the delegate kit (in CD/DVD or USB Drive only).</li>
+                      </ul>
+                    </small>
+                  </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="card flex-md-row mb-4 box-shadow h-md-350">
+                  <div class="card-body d-flex flex-column align-items-start text-justify">
+                    <strong class="d-inline-block mb-2 text-primary">Payment</strong>
+                     <small>   Payment can be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Email the scanned copy of Demand Draft/Cheque on <b class="text-primary">iwepe2019@nitkkr.ac.in</b>.
+
+                      Payment can also be made through Online money transfer. Email the payment receipt on <b class="text-primary">iwepe2019@nitkkr.ac.in</b>. </small>
+                  </div>
+                </div>
+            </div>
+
+            <div class="row">
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start">
                 <strong class="d-inline-block mb-2 text-success">Bank Details</strong>
                 <table class="table table-hover justify-content-between">
-                    <thead>
+                    <!-- <thead>
                       <tr>
-                          <!-- <th>BANK Detils</th> -->
+                          <th>BANK Detils</th>
                       </tr>
-                    </thead>
+                    </thead> -->
                     <tbody>
                       <tr>
                         <td><small>Account Name </small></td>
@@ -99,40 +92,68 @@
           </div>
         </div>
 
-        <!-- second half  -->
+
+
         <div class="col-md-6">
-           <div class="row">
-            <div class="card flex-md-row mb-4 box-shadow h-md-400">
-              <div class="card-body d-flex flex-column align-items-start text-justify">
-                <strong class="d-inline-block mb-2 text-success">Sponsorship Opportunities </strong>
-                <p> <small>The workshop organizers are seeking sponsors and industrial support and offer the best stage for the event in terms of additional activates. Sponsorship of IWEPE 2019’ provides a sponsor or an organization with a unique opportunity to increase its visibility and product awareness within a highly specialized and influential community. The organizers present a wide spectrum of sponsorship. </small> </p>
+            <div class="row">
+              <div class="card flex-md-row mb-4 box-shadow h-md-350">
+                <div class="card-body d-flex flex-column align-items-start">
+                  <strong class="d-inline-block mb-2 text-primary">Sponsorship Opportunities</strong>
+                  <div class="row">
+                    <div class="col-md-12 text-center ">
+                      <div class="container shadow-none p-3 mb-5 bg-danger rounded text-white container-sponsor">
+                       <h5><b>Platinum Sponsor</b></h5>
+                       <h6> Rs. 3.0 Lakh and above</h6>
+                       <h6> Registration free for 5 members</h6>
+                      </div>
+                    </div>          
+                  </div>
+
+                  <div class="row">
+                   
+                    <div class="col text-center ">
+                      <div class="container shadow-none p-3 mb-5 bg-info rounded text-white container-sponsor">
+                       <h5><b>Diamond Sponsor</b></h5>
+                       <h6> Rs. 2.0 - 2.99 Lakh </h6>
+                       <h6> Registration free for 3 members</h6>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  <div class="row">
+                    <div class="col text-center ">
+                      <div class="container shadow-none p-3 mb-5 bg-warning rounded text-white container-sponsor">
+                       <h5><b>Gold Sponsor</b></h5>
+                       <h6> Rs. 1.0 - 1.99 Lacs </h6>
+                       <h6> Registration free for 2 members</h6>
+                      </div>
+                    </div>
+                   
+                  </div>
+
+
+                   <div class="row">
+                    
+                    <div class="col text-center ">
+                      <div class="container shadow-none p-3 mb-5 bg-secondary rounded text-white container-sponsor">
+                       <h5><b>Silver Sponsor</b></h5>
+                       <h6> Rs. 0.5 - 0.99 lakh </h6>
+                       <h6> Registration free for 1 members</h6>
+                      </div>
+                    </div>
+                    
+                  </div>
+
+
+                </div>
               </div>
             </div>
-          </div>
-          <div class="row">
-                <div class="card flex-md-row mb-4 box-shadow h-md-350">
-                  <div class="card-body d-flex flex-column align-items-start text-justify">
-                    <strong class="d-inline-block mb-2 text-primary">Sponsorship Benefits</strong>
-                     <small><ul> 
-                        <li>Company logo on the main backdrop of the workshop as an exclusive sponsor.</li>
-                        <li>Company logo at other prominent places at the workshop venue.</li>
-                        <li>Company logo on event website with a hyper link to company website.</li>
-                        <li>Company information in the delegate kit (in CD/DVD or USB Drive only).</li>
-                      </ul>
-                    </small>
-                  </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="card flex-md-row mb-4 box-shadow h-md-350">
-                  <div class="card-body d-flex flex-column align-items-start text-justify">
-                    <strong class="d-inline-block mb-2 text-primary">Payment</strong>
-                     <small>   Payment can be made through Demand Draft/Cheque in favour of "DIRECTOR NIT KURUKSHETRA" payable at "NIT Kurukshetra". Email the scanned copy of Demand Draft/Cheque on <b class="text-primary">iwepe2019@nitkkr.ac.in</b>.
+            <!-- <div class="">No shadow</div> -->
+            
+             
 
-                      Payment can also be made through Online money transfer. Email the payment receipt on <b class="text-primary">iwepe2019@nitkkr.ac.in</b>. </small>
-                  </div>
-                </div>
-            </div>
+
+
         </div>
         <!--  -->
       </div>

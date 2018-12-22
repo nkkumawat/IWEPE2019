@@ -1,14 +1,56 @@
-.text-workshop>h4 , body, .speaker>.col>h6 ,.speaker>.col>p , .col>h6 ,.col>p, #workshop-name , h4 , h5, h6{
+.text-workshop>h4 , h2 , body, .speaker>.col>h6 ,.speaker>.col>p , .col>h6 ,.col>p, #workshop-name , h4 , h5, h6{
 	 font-family: "Roboto", serif;
 }
-
-.top-header, .blog-footer {
-
-	background: radial-gradient(ellipse at right bottom, #2c2f4c 0%, #272946 64%, #0a0b19 121%);
+table>tbody>tr>td,table>thead>tr>th {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
 }
 
+
+.container {
+	margin-top: 0 !important;
+}
+.jumbotron {
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+.jumbotron-header {
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+.blog-header {
+	padding-top: 3px !important;
+	padding-bottom: 3px !important;
+}
+
+.blog-header-logo {
+	font-size: 1.8em;
+}
+.top-header, .blog-footer {
+	background: radial-gradient(ellipse at right bottom, #2c2f4c 0%, #272946 64%, #0a0b19 121%);
+}
+.left-text {
+	text-align: left;
+}
+.container-sponsor {
+	/*position: rselative;*/
+	/*width: 170%;*/
+	margin-right: 10px;	
+}
+.floating-button {
+	position: fixed;
+	bottom: 3%;
+	right: 2%;
+	height: 50px;
+	width: 50px;
+	background: radial-gradient(ellipse at right bottom, #2c2f4c 0%, #272946 64%, #0a0b19 121%);
+	border-radius: 50%;
+	box-shadow: 0px 0px 10px  #03c9a9;
+}
 footer {
-	font-size: 12px;
+	font-size: .8em;
+	/*padding-bottom: 5px !important;
+	padding-top: 15px !important;*/
 }
 
 .theme-color {
@@ -62,6 +104,9 @@ footer {
 .card{
 	width: 100%;
 }
+.gallery {
+	max-height: 340px;
+}
 .speaker {
 	cursor: pointer;
 }
@@ -103,6 +148,9 @@ footer {
 	 .col>p {
 	 	font-size: 12px;
 	 }
+	 .left-text {
+	text-align: center;
+	}
 }
 @media only screen and (max-width: 574px) {
 
@@ -119,5 +167,7 @@ footer {
 		width: 100px;
 		height: 100px;
 	}
-
+	.left-text {
+	text-align: center;
+	}
 }

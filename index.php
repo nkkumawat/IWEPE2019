@@ -7,7 +7,6 @@
   <body>
     <?php require('header.php'); showHeader(0); ?>
     <div class="container">
-      
       <div class="row mb-2">
           <div class="col-md-6">
             <div class="row">
@@ -52,7 +51,7 @@
                 <div class="card flex-md-row mb-4 box-shadow h-md-350">
                   <div class="card-body d-flex flex-column align-items-start text-justify">
                     <strong class="d-inline-block mb-2 text-primary">Who should attend?</strong>
-                     <small>  Researchers and engineers from academia, R&D organizations and industries working in the areas of fuels, energy, combustion, power, propulsion, hypersonics, air pollution, sensors and diagnostics, modeling, fossil- and bio-fuels, alternative energy, energy-water nexus, droplets and atomization, novel combustion concepts, engine combustion, gas turbine combustion, swirl flows and other related areas. </small>
+                    <p> <small>  Researchers and engineers from academia, R&D organizations and industries working in the areas of fuels, energy, combustion, power, propulsion, hypersonics, air pollution, sensors and diagnostics, modeling, fossil- and bio-fuels, alternative energy, energy-water nexus, droplets and atomization, novel combustion concepts, engine combustion, gas turbine combustion, swirl flows and other related areas. </small></p>
                   </div>
                 </div>
             </div>
@@ -64,9 +63,9 @@
         <div class="col-md-6">
 
            <div class="row">
-            <div class="card flex-md-row mb-4 box-shadow h-md-400">
+            <div class="card gallery flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start text-justify">
-                <strong class="d-inline-block mb-2 text-success">Gallery </strong>
+                <!-- <strong class="d-inline-block mb-2 text-success">Gallery </strong> -->
                  <div id="carouselExampleIndicators" class="carousel slide rounded" data-ride="carousel">
                   <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -123,13 +122,13 @@
                 <div class="card flex-md-row mb-4 box-shadow h-md-350">
                   <div class="card-body d-flex flex-column align-items-start text-justify">
                     <strong class="d-inline-block mb-2 text-primary">Highlights</strong>
-                     <small> <ul> 
+                     <p><small> <ul> 
                       <li>Invited talks by renowned experts in the field of energy and combustion from across the globe.</li>
                       <li>Discussion on collaborative research proposal.</li>
                       <li>Enhncing International Relations.</li>
                      <li> Poster presentation competition for students.</li>
                      <li>Monographs, Books, Chapters.</li>
-                   </ul></small>
+                   </ul></small></p>
                   </div>
                 </div>
             </div>

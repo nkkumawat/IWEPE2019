@@ -33,21 +33,21 @@
                           <strong class="d-inline-block mb-2 text-primary">Patrons</strong>
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/18.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/18.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Padma Shree Dr. Satish Kumar</b></h6>
-                              <p><b>Director</b></br>National Institute of Technology Kurukshetra,</br>Kurukshetra 136119</p>
+                              <small><b>Padma Shree Dr. Satish Kumar</b></small><br>
+                              <small><b>Director</b><br>National Institute of Technology Kurukshetra,<br>Kurukshetra 136119</small>
                             </div>
                           </div>
                          <!--  <div class="row">
                              <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div> -->
                         </div>
@@ -61,74 +61,74 @@
                         
                           <div class="row">
                              <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/31.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/31.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Prof. Pankaj Chandna</b></h6>
-                              <p>Mechanical Engineering Department
-                              </br>National Institute of Technology Kurukshetra,
-                              </br>Kurukshetra 136119</br>
-                                   <a href="mailto:pchandna08@gmail.com">pchandna08@gmail.com</a></p>
+                              <small><b>Prof. Pankaj Chandna</b></small><br>
+                              <small>Mechanical Engineering Department
+                              <br>National Institute of Technology Kurukshetra,
+                              <br>Kurukshetra 136119<br>
+                                   <a href="mailto:pchandna08@gmail.com">pchandna08@gmail.com</a></small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/32.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/32.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Surinder Deswal</b></h6>
-                              <p>Civil Engineering Department
-                              </br>National Institute of Technology Kurukshetra,
-                              </br>Kurukshetra 136119
-                              </br><a href="mailto:sdeswal@nitkkr.ac.in">sdeswal@nitkkr.ac.in</a></p>
+                            <small><b>Prof. Surinder Deswal</b></small><br>
+                              <small>Civil Engineering Department
+                              <br>National Institute of Technology Kurukshetra,
+                              <br>Kurukshetra 136119
+                              <br><a href="mailto:sdeswal@nitkkr.ac.in">sdeswal@nitkkr.ac.in</a></small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/mah.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/mah.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Mahesh Pal</b></h6>
-                              <p>Civil Engineering Department
-                              </br>National Institute of Technology Kurukshetra,
-                              </br>Kurukshetra 136119
-                              </br><a href="mailto:mahesh.pal@nitkkr.ac.in ">mahesh.pal@nitkkr.ac.in </a></p>
+                            <small><b>Prof. Mahesh Pal</b></small><br>
+                              <small>Civil Engineering Department
+                              <br>National Institute of Technology Kurukshetra,
+                              <br>Kurukshetra 136119
+                              <br><a href="mailto:mahesh.pal@nitkkr.ac.in ">mahesh.pal@nitkkr.ac.in </a></small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/sat.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/sat.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Sathans</b></h6>
-                              <p>Electrical Engineering Department
-                              </br>National Institute of Technology Kurukshetra,
-                              </br>Kurukshetra 136119
-                              </br><a href="mailto:sathans@nitkkr.ac.in">sathans@nitkkr.ac.in </a></p>
+                            <small><b>Prof. Sathans</b></small><br>
+                              <small>Electrical Engineering Department
+                              <br>National Institute of Technology Kurukshetra,
+                              <br>Kurukshetra 136119
+                              <br><a href="mailto:sathans@nitkkr.ac.in">sathans@nitkkr.ac.in </a></small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/29.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/29.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Dr. Vinod Kumar</b></h6>
-                              <p>Mechanical Engineering Department
-                              </br>National Institute of Technology Kurukshetra,
-                              </br>Kurukshetra 136119
-                              </br><a href="mailto:mit_vkum@nitkkr.ac.in">mit_vkum@nitkkr.ac.in</a></p>
+                            <small><b>Dr. Vinod Kumar</b></small><br>
+                              <small>Mechanical Engineering Department
+                              <br>National Institute of Technology Kurukshetra,
+                              <br>Kurukshetra 136119
+                              <br><a href="mailto:mit_vkum@nitkkr.ac.in">mit_vkum@nitkkr.ac.in</a></small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/30.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/30.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Dr. Gulshan Sachdeva</b></h6>
-                              <p>Mechanical Engineering Department
-                              </br>National Institute of Technology Kurukshetra,
-                              </br>Kurukshetra 136119
-                              </br><a href="mailto:gulshansachdeva@nitkkr.ac.in">gulshansachdeva@nitkkr.ac.in</a></p>
+                            <small><b>Dr. Gulshan Sachdeva</b></small><br>
+                              <small>Mechanical Engineering Department
+                              <br>National Institute of Technology Kurukshetra,
+                              <br>Kurukshetra 136119
+                              <br><a href="mailto:gulshansachdeva@nitkkr.ac.in">gulshansachdeva@nitkkr.ac.in</a></small>
                             </div>
                           </div>
                       </div>
@@ -141,33 +141,33 @@
                            <strong class="d-inline-block mb-2 text-success">Student Body</strong>
                         <div class="row">
                             <div class="col-4">
-                              <img src="./images/students/2.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/2.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Sanchit Gupta</b></h6>
-                              <p>NIT Kurukshetra <br>9958022320 |  <a>sanchit_11510612@nitkkr.ac.in</a> </p>
+                              <small><b>Sanchit Gupta</b></small><br>
+                              <small>NIT Kurukshetra <br>9958022320 |  <a>sanchit_11510612@nitkkr.ac.in</a> </small>
                            
                             </div>
                           </div>
                           
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div>
                           </div>
@@ -184,97 +184,108 @@
 
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/10.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/10.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Akshat Singhal</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8527707845">8527707845 </a> | <a href="mailto:singhal1175@outlook.com">singhal1175@outlook.com</a></p>
+                              <small><b>Akshat Singhal&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;  </b></small><br>
+                              <small>NIT Kurukshetra <br> <a href="tel://8527707845"><img src="./images/phone.png"> </a> | <a href="mailto:singhal1175@outlook.com"><img src="./images/email.png"></a></small>
                             </div>
                           </div>
 
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/2.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/2.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Sanchit Gupta</b></h6>
-                              <p>NIT Kurukshetra <br><a href="tel://9958022320">9958022320 </a> | <a href="mailto:sanchit_11510612@nitkkr.ac.in">sanchit_11510612@nitkkr.ac.in</a> </p>
-                              <!-- <p>fas</p> -->
+                              <small><b>Sanchit Gupta &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;  </b></small><br>
+                              <small>NIT Kurukshetra <br><a href="tel://9958022320"><img src="./images/phone.png"> </a> | <a href="mailto:sanchit_11510612@nitkkr.ac.in"><img src="./images/email.png"></a> </small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
                          
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/3.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/3.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Yash Gupta </b></h6>
-                              <p>NIT Kurukshetra<br> <a href="tel://7404658930">7404658930 </a> | <a href="mailto:yashlaboratoire@gmail.com">yashlaboratoire@gmail.com</a></p>
-                              <!-- <p>fas</p> -->
+                              <small><b>Yash Gupta &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>NIT Kurukshetra<br> <a href="tel://7404658930"><img src="./images/phone.png"> </a> | <a href="mailto:yashlaboratoire@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
                           <div class="row">
-                             <div class="col-4">
-                              <img src="./images/students/4.jpg" class="img-thumbnail" height="200" width="200">
+                            <div class="col-4">
+                              <img src="./images/students/4.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Shlok Sah</b></h6>
-                              <p>NIT kurukshetra<br> <a href="mailto:shloksah123@gmail.com">shloksah123@gmail.com</a></p>
-                              <!-- <p>fas</p> -->
+                              <small><b>Shlok Sah &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;</b></small><br>
+                              <small>NIT kurukshetra<br><a href="tel://8826170863"><img src="./images/phone.png"> </a> | <a href="mailto:shloksah123@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
-                         
+                          
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/5.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/11.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>S. Rukmini Tejaswini</b></h6>
-                              <p>NIT KUrukshetra <br><a href="tel://8826170863">8826170863 </a> | <a href="mailto:trteju1997@gmail.com">trteju1997@gmail.com</a></p>
-                              <!-- <p>fas</p> -->
+                              <small><b>Sumit Batra &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;  </b></small><br>
+                              <small>NIT KUrukshetra <br><a href="tel://8683838993"><img src="./images/phone.png"> </a> | <a href="mailto:batrasumit687@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
 
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/6.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/5.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Narendra Kumawat</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://9660729583">9660729583 </a> | <a href="mailto:nk0kumawat@gmail.com">nk0kumawat@gmail.com</a></p>
-                              <!-- <p>fas</p> -->
+                              <small><b>S. Rukmini Tejaswini &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;  </b></small><br>
+                              <small>NIT KUrukshetra <br><a href="tel://8826170863"><img src="./images/phone.png"> </a> | <a href="mailto:trteju1997@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
+                            </div>
+                          </div>
+
+                          <div class="row">
+                             <div class="col-4">
+                              <img src="./images/students/6.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                              <small><b>Narendra Kumawat&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp; </b></small><br>
+                              <small>NIT Kurukshetra <br> <a href="tel://9660729583"><img src="./images/phone.png"> </a> | <a href="mailto:nk0kumawat@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/8.jpeg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/8.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Vikram Sachdeva </b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8954305273">8954305273 </a> | <a href="mailto:vikramsachdeva1997@gmail.com">vikramsachdeva1997@gmail.com</a></p>
-                              <!-- <p>fas</p> -->
+                              <small><b>Vikram Sachdeva &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp; </b></small><br>
+                              <small>NIT Kurukshetra <br> <a href="tel://8954305273"><img src="./images/phone.png"> </a> | <a href="mailto:vikramsachdeva1997@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
                           
 
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/7.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/7.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Yash</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://7206268094">7206268094 </a> | <a href="mailto:shuklayash00001@gmail.com">shuklayash00001@gmail.com</a></p>
-                              <!-- <p>fas</p> -->
+                              <small><b>Yash&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;  </b></small><br>
+                              <small>NIT Kurukshetra <br> <a href="tel://7206268094"><img src="./images/phone.png"> </a> | <a href="mailto:shuklayash00001@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
                           <div class="row">
                             <div class="col-4">
-                              <img src="./images/students/1.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/1.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>G. Sahana</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8607918434">8607918434 </a> | <a href="mailto:sahana.g2@gmail.com">sahana.g2@gmail.com</a></p>
-                              <!-- <p><a</p> -->
+                              <small><b>G. Sahana &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   </b></small><br>
+                              <small>NIT Kurukshetra <br> <a href="tel://8607918434"><img src="./images/phone.png"> </a> | <a href="mailto:sahana.g2@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small><a</small> -->
                             </div>
                           </div>
 
@@ -282,12 +293,12 @@
 
                            <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/9.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/students/9.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Kanika Singla</b></h6>
-                              <p>NIT Kurukshetra <br> <a href="tel://8168393540">8168393540 </a> | <a href="mailto:singla.skanika@gmail.com">singla.skanika@gmail.com</a></p>
-                              <!-- <p>fas</p> -->
+                              <small><b>Kanika Singla &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;&nbsp;</b></small><br>
+                              <small>NIT Kurukshetra <br> <a href="tel://8168393540"><img src="./images/phone.png"> </a> | <a href="mailto:singla.skanika@gmail.com"><img src="./images/email.png"></a></small>
+                              <!-- <small>fas</small> -->
                             </div>
                           </div>
                            
@@ -311,38 +322,36 @@
                           <strong class="d-inline-block mb-2 text-primary">Organizing Team</strong>
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/2.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/2.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Ashwani K. Gupta</b></h6>
-                              <p>Distinguished University Professor
-                              </br>University of Maryland,
-                              </br>College Park, USA
-                              </br>akgupta@umd.edu</p>
+                            <small><b>Prof. Ashwani K. Gupta</b></small><br>
+                              <small>Distinguished University Professor
+                              <br>University of Maryland,
+                              College Park, USA
+                              <br>akgupta@umd.edu</small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/3.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/3.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Suresh K. Aggarwal</b></h6>
-                              <p>Emeritus Professor
-                              </br>University of Illinois at Chicago,
-                              </br>Chicago, USA
-                              </br>ska@uic.edu</p>
+                            <small><b>Prof. Suresh K. Aggarwal</b></small><br>
+                              <small>Emeritus Professor
+                              <br>University of Illinois at Chicago, USA
+                              <br>ska@uic.edu</small>
                             </div>
                           </div>
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/1.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/1.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Dr. Akshai Runchal</b></h6>
-                              <p>President
-                              </br>Analytic & Computational Research Inc,
-                              </br>Los Angeles, USA
-                              </br>runchal@acricfd.com</p>
+                            <small><b>Dr. Akshai Runchal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></small><br>
+                              <small>President
+                              <br>ACRI,Los Angeles, USA
+                              <br>runchal@acricfd.com</small>
                             </div>
                           </div>
                            
@@ -361,77 +370,75 @@
                           
                           <div class="row">
                              <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/5.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/5.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Abhijit Kushari</b></h6>
-                              <p>Professor
-                              </br>ndian Institute of Technology Kanpur,
-                              </br>Kanpur, India
-                              </br>akushari@iitk.ac.in</p>
+                            <small><b>Prof. Abhijit Kushari&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></small><br>
+                              <small>Professor
+                              <br>IIT Kanpur, India
+                              <br>akushari@iitk.ac.in</small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/4.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/4.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Ashoke De</b></h6>
-                              <p>Mechanical Engineering Department
-                              </br>Indian Institute of Technology Kanpur,
-                              </br>Kanpur, India
-                              </br>ashoke@iitk.ac.in</p>
+                            <small><b>Prof. Ashoke De</b></small><br>
+                              <small>Mechanical Engineering Department
+                              <br>IIT Kanpur, India
+                              <br>ashoke@iitk.ac.in</small>
                             </div>
                           </div>
                           <!--<div class="row">
                             <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div>
                            <div class="row">
                             <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div>
                           
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div>
                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/university-of-maryland.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                              <h6><b>Name of Person</b></h6>
-                              <p>afsf  description</p>
-                              <p>fas</p>
+                              <small><b>Name of Person</b></small><br>
+                              <small>afsf  description</small>
+                              <small>fas</small>
                             </div>
                           </div> -->
                       </div>
@@ -444,255 +451,266 @@
 
 
         <div role="tabpanel" class="tab-pane fade in  padding-container" id="international">
-           <br><br>
-            <p class="text-center font-weight-bold">Comming Soon</p>
-            <br><br>
+           <!-- <br><br> -->
+            <!-- <p class="text-center font-weight-bold">Comming Soon</small> -->
+            <!-- <br><br> -->
           <div class="row mb-2">
 
-             <!-- <div class="col-md-6">
+             <div class="col-md-6">
                    <div class="row">
                     <div class="card flex-md-row mb-4 box-shadow h-md-400">
                       <div class="card-body d-flex flex-column align-items-start">
                          <strong class="d-inline-block mb-2 text-success">International Scientific Advisory </strong>
-                         <div class="row">
+
+                          <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/21.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/21.jpg" class="img-thumbnail rounded-circle img-fluid " height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Peter Lindstedt</b></h6>
-                              <p>Imperial College,
-                              </br>London
-                              </p>
+                            <small><b>Prof. Peter Lindstedt &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Imperial College,
+                              <br>London
+                              </small>
+                            </div>
+                          </div>
+
+                          <div class="row">
+                            <div class="col-4">
+                              <img src="./images/isa/1.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <small><b>Dr. Sebastian Ducruix &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Universite Paris, Scalay,
+                              <br>France
+                              </small>
                             </div>
                           </div>
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/25.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/27.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Dr. Kazhikathra Kailasanath</b></h6>
-                              <p>Naval Research Laboratory,
-                              </br>USA
-                              </p>
+                            <small><b>Prof. Jens Klingmann &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Lund University,
+                              <br>Sweden
+                              </small>
                             </div>
                           </div>
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/27.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/isa/2.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Jens Klingmann</b></h6>
-                              <p>Lund University,
-                              </br>Sweden
-                              </p>
+                            <small><b>Dr. Robert Dibble &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>KAUST,
+                              <br>Saudi Arabia
+                              </small>
+                            </div>
+                          </div>
+                          <!-- <div class="row">
+                            <div class="col-4">
+                              <img src="./isepp2018/resources/drawable/speakers/34.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <small><b>Prof. Janos M. Beer</b></small><br>
+                              <small>Massachusetts Institute of Technology,
+                              <br>USA
+                              </small>
+                            </div>
+                          </div> -->
+                          <div class="row">
+                            <div class="col-4">
+                              <img src="./isepp2018/resources/drawable/speakers/37.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <small><b>Prof. William Roberts&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>KAUST <br>College Park, USA
+                              </small>
                             </div>
                           </div>
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/22.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/isa/3.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Ryo S. Amano</b></h6>
-                              <p>University of Wisconsin Milwaukee,
-                              </br>USA
-                              </p>
+                            <small><b>Dr. Thomas Kolb&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Karlsruhe Institute of Technology,
+                              <br>Germany
+                              </small>
                             </div>
                           </div>
+                          <!-- <div class="row">
+                            <div class="col-4">
+                              <img src="./isepp2018/resources/drawable/speakers/14.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <small><b>Prof. Renato Machado Cotta</b></small><br>
+                              <small>National Commission of Nuclear Energy,
+                              <br>Brazil
+                              </small>
+                            </div>
+                          </div> -->
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/34.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/15.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Janos M. Beer</b></h6>
-                              <p>Massachusetts Institute of Technology,
-                              </br>USA
-                              </p>
+                            <small><b>Prof. Kemal Hanjalic</b></small><br>
+                              <small>Darmstadt University of Technology,
+                              <br>Germany
+                              </small>
                             </div>
                           </div>
-                          <div class="row">
+
+                          <!-- <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/37.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/24.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. William Roberts</b></h6>
-                              <p>King Abdulla University of Science and
-                              </br> Technology,
-                              </br>College Park, USA
-                              </p>
+                            <small><b>Prof. Hameed Metghalchi&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Northeastern University,
+                              <br>USA
+                              </small>
                             </div>
-                          </div>
-                          <div class="row">
-                            <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/8.jpg" class="img-thumbnail" height="200" width="200">
-                            </div>
-                            <div class="col">
-                            <h6><b>Prof. Rachid Bennacer</b></h6>
-                              <p>University of Cergy-Pontoise,
-                              </br>France
-                              </p>
-                            </div>
-                          </div>
-                          <div class="row">
-                            <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/14.jpg" class="img-thumbnail" height="200" width="200">
-                            </div>
-                            <div class="col">
-                            <h6><b>Prof. Renato Machado Cotta</b></h6>
-                              <p>National Commission of Nuclear Energy,
-                              </br>Brazil
-                              </p>
-                            </div>
-                          </div>
-                          <div class="row">
-                            <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/15.jpg" class="img-thumbnail" height="200" width="200">
-                            </div>
-                            <div class="col">
-                            <h6><b>Prof. Kemal Hanjalic</b></h6>
-                              <p>Darmstadt University of Technology,
-                              </br>Germany
-                              </p>
-                            </div>
-                          </div>
-                          <div class="row">
-                            <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/24.jpg" class="img-thumbnail" height="200" width="200">
-                            </div>
-                            <div class="col">
-                            <h6><b>Prof. Hameed Metghalchi</b></h6>
-                              <p>Northeastern University,
-                              </br>USA
-                              </p>
-                            </div>
-                          </div>
+                          </div> -->
                           
                       </div>
                     </div>
                   </div>
                   
-                </div> -->
+                </div> 
 
                   
                 <!-- second half  -->
-                <!-- <div class="col-md-6">
+                <div class="col-md-6">
                   <div class="row">
                       <div class="card flex-md-row mb-4 box-shadow h-md-350">
                         <div class="card-body d-flex flex-column align-items-start">
                           <strong class="d-inline-block mb-2 text-primary">International Scientific Advisory </strong>
-                          <div class="row">
+
+                          <!-- <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/26.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/26.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Dr. Gabriel D. Roy</b></h6>
-                              <p>CPNE Consultants,
-                              </br>USA
-                              </p>
+                            <small><b>Dr. Gabriel D. Roy &nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>CPNE Consultants,
+                              <br>USA
+                              </small>
+                            </div>
+                          </div> -->
+
+                          <div class="row">
+                            <div class="col-4">
+                              <img src="./isepp2018/resources/drawable/speakers/36.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <small><b>Prof. Yun Hin Taufiq-Yap&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Universiti Putra,
+                              <br>Malaysia
+                              </small>
                             </div>
                           </div>
-                          <div class="row">
+
+                          <!-- <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/36.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/6.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Yun Hin Taufiq-Yap</b></h6>
-                              <p>Universiti Putra,
-                              </br>Malaysia
-                              </p>
+                            <small><b>Prof. Kunio Yoshikawa&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Tokyo Institute of Technology,
+                              <br>Japan
+                              </small>
+                            </div>
+                          </div> -->
+
+                          <!-- <div class="row">
+                            <div class="col-4">
+                              <img src="./isepp2018/resources/drawable/speakers/22.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <small><b>Prof. Hukam C. Mongia&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Purdue University,
+                              <br>USA
+                              </small>
+                            </div>
+                          </div> -->
+
+                          <div class="row">
+                            <div class="col-4">
+                              <img src="./images/isa/4.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col">
+                            <small><b>Prof. Farhad Jaberi&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Michigan State University,
+                              <br>USA
+                              </small>
                             </div>
                           </div>
+
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/6.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/isa/5.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Kunio Yoshikawa</b></h6>
-                              <p>Tokyo Institute of Technology,
-                              </br>Japan
-                              </p>
+                            <small><b>Prof. D. Yogi Goswami&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>University of South Florida,
+                              <br>USA
+                              </small>
                             </div>
                           </div>
+
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/22.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/isa/6.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Hukam C. Mongia</b></h6>
-                              <p>Purdue University,
-                              </br>USA
-                              </p>
+                            <small><b>Dr. Manish Tiwari&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>University College London,
+                              <br>UK
+                              </small>
                             </div>
                           </div>
+
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/11.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./images/isa/7.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Farhad Jaberi</b></h6>
-                              <p>Michigan State University,
-                              </br>USA
-                              </p>
+                            <small><b>Prof. Biagio Morrone&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Universita' Degli Studi Della Campania,
+                              <br>Italy
+                              </small>
                             </div>
                           </div>
-                          <div class="row">
+
+                          <!-- <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/34.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/7.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. D. Yogi Goswami</b></h6>
-                              <p>University of South Florida,
-                              </br>USA
-                              </p>
+                            <small><b>Prof. Marcel de Lemos&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>nstituto Tecnologico de Aeronautica,
+                              <br>Brazil
+                              </small>
                             </div>
-                          </div>
+                          </div> -->
+
                           <div class="row">
                             <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/35.jpg" class="img-thumbnail" height="200" width="200">
+                              <img src="./isepp2018/resources/drawable/speakers/33.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col">
-                            <h6><b>Prof. Somrat Kerdsuwan</b></h6>
-                              <p>King Mongkut’s University of Technology,
-                              </br>Thailand
-                              </p>
-                            </div>
-                          </div>
-                          <div class="row">
-                            <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/37.jpg" class="img-thumbnail" height="200" width="200">
-                            </div>
-                            <div class="col">
-                            <h6><b>Prof. Biagio Morrone</b></h6>
-                              <p>Universita' Degli Studi Della Campania,
-                              </br>Italy
-                              </p>
-                            </div>
-                          </div>
-                          <div class="row">
-                            <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/7.jpg" class="img-thumbnail" height="200" width="200">
-                            </div>
-                            <div class="col">
-                            <h6><b>Prof. Marcel de Lemos</b></h6>
-                              <p>nstituto Tecnologico de Aeronautica,
-                              </br>Brazil
-                              </p>
-                            </div>
-                          </div>
-                          <div class="row">
-                            <div class="col-4">
-                              <img src="./isepp2018/resources/drawable/speakers/33.jpg" class="img-thumbnail" height="200" width="200">
-                            </div>
-                            <div class="col">
-                            <h6><b>Prof. Alan Williams</b></h6>
-                              <p>Leeds University,
-                              </br>UK
-                              </p>
+                            <small><b>Prof. Alan Williams&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;   &nbsp;   &nbsp;   &nbsp;&nbsp;</b></small><br>
+                              <small>Leeds University,
+                              <br>UK
+                              </small>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-                             -->        
+                                  
                 </div> 
                 <!--  -->
               </div>
