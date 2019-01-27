@@ -53,7 +53,7 @@
                     <a class="nav-link '.$classes[5].'" href="./registration.php">Registration</a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link '.$classes[6].' " href="./howtoreachus.php">How to reach Us</a>
+                    <a class="nav-link '.$classes[6].' " href="./howtoreachus.php">How to reach</a>
                 </li>
                 <li class="nav-item ">
                     <a class="nav-link '.$classes[7].'" href="./contact.php">Contact</a>
@@ -71,31 +71,40 @@
         </nav>
 	      <div class="nav-scroller py-1 mb-2" id="navbar-main">
 	        <nav class="nav d-flex navbar-inverse justify-content-between">
+              
 	          <a class="p-2 navlink-a '.$classes[0].'" href="index.php">Home</a>
 	          <a class="p-2 navlink-a '.$classes[1].'" href="schedule.php">Schedule</a>
 	          <a class="p-2 navlink-a '.$classes[2].'" href="speakers.php">Speakers</a>
 	          <a class="p-2 navlink-a '.$classes[3].'" href="sponsors.php">Sponsors</a>
 	          <a class="p-2 navlink-a '.$classes[4].'" href="callforposter.php">Call for Posters</a>
 	          <a class="p-2 navlink-a '.$classes[5].'" href="registration.php">Registration</a>
-	          <a class="p-2 navlink-a '.$classes[6].'" href="howtoreachus.php">How to Reach Us</a>
+	          <a class="p-2 navlink-a '.$classes[6].'" href="howtoreachus.php">How to Reach</a>
 	          <a class="p-2 navlink-a '.$classes[7].'" href="contact.php">Contact</a>
               <a class="p-2 navlink-a '.$classes[9].'" href="gallery.php">Gallery</a>
               <a class="p-2 navlink-a '.$classes[8].'" href="isepp2018/index.html">ISEPP 2018</a>
 	          
 	        </nav>
-	      </div>
-	        <div class="jumbotron p-3 p-md-5 text-white justify-content-between rounded " style="background: transparent;">
+	      </div>';
+
+          if ($tab <= 0 ){
+	       echo'
+            <div class="jumbotron jumbotron-header p-3 p-md-5 text-white justify-content-between rounded " style="background: transparent;">
     	        <div class="row">
     	        <div class="col-sm-12 col-md-1 text-center center  px-0">
     	          <img src="./images/nit.png" width="150" height="150" class="nitimage">
     	        </div><div class="col-md-1 col-sm-0"></div>
     	        <div class="col-md-10 col-sm-12  px-0 text-workshop">
-    	          <h4 class="display-6 workshop-text text-center"> <b>INTERNATIONAL WORKSHOP</b> on <b>ENERGY, POWER & ENVIRONMENT</b></h4>
-    	          <p class="lead my-3 text-center">March 17 - 19, 2019</p>
-    	          <p class="lead mb-0 text-center"><a href="http://nitkkr.ac.in" class="text-white font-weight-bold text-center"> National Institute of Technology Kurukshetra, India</a></p>
+    	          <h5 class="display-6 workshop-text text-center"> <b>INTERNATIONAL WORKSHOP</b> on <b>ENERGY, POWER & ENVIRONMENT</b></h5>
+    	          <p class="lead my-3 text-center">March  17 - 19 <span class="theme-color" >|</span> 2019</p>
+    	          <p class="lead mb-0 text-center"><a href="http://nitkkr.ac.in" class="text-white font-weight-bold text-center"> National Institute of Technology Kurukshetra<span class="theme-color" >  |</span> India</a></p>
     	        </div>
     	        </div>
-	        </div> 
+	        </div> ';
+
+        }else {
+            echo '<small><br></small>';
+        }
+            echo '
             </div>
             </div>
            

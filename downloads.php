@@ -16,15 +16,15 @@
                    <li> <a href="./docs/IWEPE2019-RegistrationForm.pdf">Registration Form</a></li>
                     <li><a href="./docs/IWEPE2019-SBICollect.pdf">Guidelines to Pay</a></li>
                     <li><a href="./docs/Hotels.pdf">List of Hotels</a></li>
-                    <li><a href="./docs/ISEPP Book.pdf">Abstract of ISEPP 2018</a></li>
-                    <li><a href="#">Brochure IWEPE 2019</a></li>
+                    <li><a href="./docs/ISEPP Book.pdf">Abstract Book of ISEPP 2018</a></li>
+                    <li><a href="./docs/IWEPE BROCHURE NEW.pdf">Brochure IWEPE 2019</a></li>
                   </ul>
                 </div>
               </div>
             </div>
         </div>
       </div>
-    </div>
+    </div><br><br><br><br>
     <?php require('footer.php'); ?>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   

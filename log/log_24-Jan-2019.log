@@ -1,0 +1,23 @@
+127.0.0.1 24-Jan-2019 $_SERVER["DOCUMENT_ROOT"] = /home/sonu/Desktop/WEBSITE IWEPE2019
+ $_SERVER["REMOTE_ADDR"] = 127.0.0.1
+ $_SERVER["REMOTE_PORT"] = 49308
+ $_SERVER["SERVER_SOFTWARE"] = PHP 7.1.15-0ubuntu0.17.10.1 Development Server
+ $_SERVER["SERVER_PROTOCOL"] = HTTP/1.1
+ $_SERVER["SERVER_NAME"] = localhost
+ $_SERVER["SERVER_PORT"] = 8000
+ $_SERVER["REQUEST_URI"] = /
+ $_SERVER["REQUEST_METHOD"] = GET
+ $_SERVER["SCRIPT_NAME"] = /index.php
+ $_SERVER["SCRIPT_FILENAME"] = /home/sonu/Desktop/WEBSITE IWEPE2019/index.php
+ $_SERVER["PHP_SELF"] = /index.php
+ $_SERVER["HTTP_HOST"] = localhost:8000
+ $_SERVER["HTTP_USER_AGENT"] = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:64.0) Gecko/20100101 Firefox/64.0
+ $_SERVER["HTTP_ACCEPT"] = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+ $_SERVER["HTTP_ACCEPT_LANGUAGE"] = en-US,en;q=0.5
+ $_SERVER["HTTP_ACCEPT_ENCODING"] = gzip, deflate
+ $_SERVER["HTTP_CONNECTION"] = keep-alive
+ $_SERVER["HTTP_COOKIE"] = __stripe_mid=12ea2664-b0f7-42f5-a508-0908a0d3ab55; Webstorm-9ec41791=1e93cb8b-747d-4177-bba8-395364a4c006; csrftoken=cYgo6B4UaDuIyiutAm9NMmaEXZJxZcsMuINmAjuLJyy6MwFmEhKe4xcWAhZsLNzH; _ga=GA1.1.2040852218.1539180485; G_ENABLED_IDPS=google
+ $_SERVER["HTTP_UPGRADE_INSECURE_REQUESTS"] = 1
+ $_SERVER["REQUEST_TIME_FLOAT"] = 1548302921.0307
+ $_SERVER["REQUEST_TIME"] = 1548302921
+===============================================================================

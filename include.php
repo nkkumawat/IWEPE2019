@@ -2,6 +2,7 @@
 
 	echo '
 	<meta charset="utf-8">
+    <meta charset="ISO-8859-1"> 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="National Institute of Technology (NIT) Kurukshetra   organizing an International Workshop on  Energy, Power and ENVIRONMENT  ">
     <meta name="description" content=" Power and Propulsion that started in 2004 with a review of the Status of Combustion in India and has evolved into a forum for the status of Sustainable Energy Development for Power and Propulsion worldwide.
