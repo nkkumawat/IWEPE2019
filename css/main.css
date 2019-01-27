@@ -6,6 +6,10 @@ table>tbody>tr>td,table>thead>tr>th {
   padding-bottom: 0px !important;
 }
 
+.student-card-body {
+	padding-right: 0px !important;
+}
+
 
 .container {
 	margin-top: 0 !important;

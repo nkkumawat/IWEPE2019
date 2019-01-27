@@ -1,6 +1,9 @@
 function speaker(speaker_name) {
    		window.location.href = "/" + speaker_name;
 }
+function openlink(link) {
+   		window.location.href =  link;
+}
 
 
 function myMap() {

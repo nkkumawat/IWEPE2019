@@ -95,7 +95,7 @@
     	        </div><div class="col-md-1 col-sm-0"></div>
     	        <div class="col-md-10 col-sm-12  px-0 text-workshop">
     	          <h5 class="display-6 workshop-text text-center"> <b>INTERNATIONAL WORKSHOP</b> on <b>ENERGY, POWER & ENVIRONMENT</b></h5>
-    	          <p class="lead my-3 text-center">March <span class="theme-color" >|</span> 17 - 19 <span class="theme-color" >|</span> 2019</p>
+    	          <p class="lead my-3 text-center">March  17 - 19 <span class="theme-color" >|</span> 2019</p>
     	          <p class="lead mb-0 text-center"><a href="http://nitkkr.ac.in" class="text-white font-weight-bold text-center"> National Institute of Technology Kurukshetra<span class="theme-color" >  |</span> India</a></p>
     	        </div>
     	        </div>

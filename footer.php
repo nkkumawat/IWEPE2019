@@ -9,7 +9,8 @@ echo '<footer class="blog-footer">
 			    Training and Placement Cell<br>
 			    National Institute of Technology | Kurukshetra<br>
 			    Kurukshetra | 136119 | India<br>
-			    Telephone: +91 1744 238491 | +91 1744 233302
+			    Telephone: +91 1744 238491 | +91 1744 233302<br>
+			    iwepe2019@nitkkr.ac.in  |  iwepe@nitkkr.ac.in
 			</p>
 			</div>
 
@@ -43,5 +44,39 @@ echo '<footer class="blog-footer">
 	  // echo "string";
 	  fwrite($file, $visits +1);
 	  fclose($file);
+	  function getRealIpAddr(){
+		    if (!empty($_SERVER['HTTP_CLIENT_IP']))   //check ip from share internet
+		    {
+		      $ip=$_SERVER['HTTP_CLIENT_IP'];
+		    }
+		    elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))   //to check ip is pass from proxy
+		    {
+		      $ip=$_SERVER['HTTP_X_FORWARDED_FOR'];
+		    }
+		    else
+		    {
+		      $ip=$_SERVER['REMOTE_ADDR'];
+		    }
+		    return $ip;
+		}
+
+	  function wh_log(){
+
+			
+	  	date_default_timezone_set('Asia/Kolkata');
+	  		$log_msg = getRealIpAddr(). " ". date('d-M-Y') ." " . date("h:i:sa"); 
+	  // 		foreach($_SERVER as $key => $value){
+			// 	$log_msg = $log_msg .' $_SERVER["'.$key.'"] = '.$value."\n";
+			// }
+			$log_msg = $log_msg . "\n";
+		    $log_filename = "log";
+		    if (!file_exists($log_filename)) 
+		    {
+		        mkdir($log_filename, 0777, true);
+		    }
+		    $log_file_data = $log_filename.'/log_.log';
+		    file_put_contents($log_file_data, $log_msg . "\n", FILE_APPEND);
+		}
+		wh_log();
 
 ?>

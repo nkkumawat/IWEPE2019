@@ -35,6 +35,17 @@
                       <a href="https://acricfd.com" target="_blank"><img src="./images/agr.jpg" class="img-thumbnail" height="200" width="200"></a>
                     </div>
                   </div>
+                  <div class="row">
+                    <div class="col">
+                      <a href="http://www.teqip.in/" target="_blank"><img src="./images/teqip.png" class="img-thumbnail" height="200" width="200"></a>
+                    </div>
+                    <div class="col">
+                      <a href="http://www.lpsindia.com/" target="_blank"><img src="./images/lps.png" class="img-thumbnail" height="200" width="200"></a>
+                    </div>
+                    <div class="col">
+                      
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
