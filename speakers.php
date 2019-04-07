@@ -14,19 +14,35 @@
               <div class="card flex-md-row mb-4 box-shadow h-md-350">
                 <div class="card-body d-flex flex-column align-items-start">
                   <strong class="d-inline-block mb-2 text-primary">Chief Guest</strong>
-                  <div class="row speaker" onclick= "openlink('https://www.drdo.gov.in/drdo/English/index.jsp?pg=secretary-drdo.jsp');">
+                  <div class="row speaker" onclick= "openlink('https://www.drdo.gov.in/drdo/English/index.jsp?pg=dg-ace.jsp');">
                     <div class="col-4">
-                      <img src="./images/cp.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                      <img src="./images/pkmehta.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                     </div>
                     <div class="col-8">
-                      <small><b>Dr G. Satheesh Reddy</b></small><br>
-                      <p style="line-height: 1em"><small>Chairman, DRDO<br> India</small></p>
+                      <small><b>Shri PK Mehta</b></small><br>
+                      <p style="line-height: 1em"><small>DS & Director General<br>ACE , DRDO, Govt. of India</small></p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
             
+            <div class="row">
+              <div class="card flex-md-row mb-4 box-shadow h-md-350">
+                <div class="card-body d-flex flex-column align-items-start">
+                  <strong class="d-inline-block mb-2 text-primary">Guest of Honour</strong>
+                  <div class="row speaker" onclick= "openlink('#');">
+                    <div class="col-4">
+                      <img src="./images/index.png" class="img-thumbnail rounded-circle" height="200" width="200">
+                    </div>
+                    <div class="col-8">
+                      <small><b>Shri GK Gupta</b></small><br>
+                      <p style="line-height: 1em"><small>Joint Secretary, MNRE<br> India</small></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
   
 
          
@@ -39,25 +55,25 @@
                   <div class="card-body d-flex flex-column align-items-start">
                    <strong class="d-inline-block mb-2 text-success">Speakers </strong>
 
-                <div class="row speaker" onclick= "speaker('profile.php?id=1');">
-                    <div class="col-4">
-                      <img src="./isepp2018/resources/drawable/speakers/3.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
-                    </div>
-                    <div class="col-8">
-                      <small><b>Dr. Suresh Aggarwal</b></small><br>
-                      <p style="line-height: 1em"><small>University of Illinois<br> USA </small></p>
-                    </div>
-                  </div>
+                    <div class="row speaker" onclick= "speaker('profile.php?id=1');">
+                        <div class="col-4">
+                          <img src="./isepp2018/resources/drawable/speakers/3.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                        </div>
+                        <div class="col-8">
+                          <small><b>Dr. Suresh Aggarwal</b></small><br>
+                          <p style="line-height: 1em"><small>University of Illinois<br> USA </small></p>
+                        </div>
+                      </div>
 
-                  <div class="row speaker" onclick= "speaker('profile.php?id=2');">
-                    <div class="col-4">
-                      <img src="./isepp2018/resources/drawable/speakers/4.jpg" class="img-thumbnail rounded-circle" >
-                    </div>
-                    <div class="col-8">
-                      <small><b>Dr. Ashoke De </b></small><br>
-                      <p style="line-height: 1em"><small>IIT Kanpur<br> India  </small></p>
-                    </div>
-                  </div>
+                    <!-- <div class="row speaker" onclick= "speaker('profile.php?id=2');">
+                      <div class="col-4">
+                        <img src="./isepp2018/resources/drawable/speakers/4.jpg" class="img-thumbnail rounded-circle" >
+                      </div>
+                      <div class="col-8">
+                        <small><b>Dr. Ashoke De </b></small><br>
+                        <p style="line-height: 1em"><small>IIT Kanpur<br> India  </small></p>
+                      </div>
+                    </div> -->
                    <div class="row speaker" onclick= "speaker('profile.php?id=3');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/2.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
@@ -173,6 +189,33 @@
                       <p style="line-height: 1em"><small>IISC <br> India  </small></p>
                     </div>
                   </div>
+                  <div class="row speaker" onclick= "speaker('profile.php?id=29');" >
+                    <div class="col-4">
+                      <img src="./images/hn.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                    </div>
+                    <div class="col-8">
+                      <small><b>Dr. Hiranya Nath</b></small><br>
+                      <p style="line-height: 1em"><small>GE Aviation <br> India  </small></p>
+                    </div>
+                  </div>
+                  <div class="row speaker" onclick= "speaker('profile.php?id=33');" >
+                    <div class="col-4">
+                      <img src="./images/mi.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                    </div>
+                    <div class="col-8">
+                      <small><b>Dr. Mohammed Ibrahim</b></small><br>
+                      <p style="line-height: 1em"><small>IIT Kanpur<br> India  </small></p>
+                    </div>
+                  </div>
+                  <div class="row speaker" onclick= "speaker('profile.php?id=34');" >
+                    <div class="col-4">
+                      <img src="./images/golla.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                    </div>
+                    <div class="col-8">
+                      <small><b>Dr. S. R. Golllahalli</b></small><br>
+                      <p style="line-height: 1em"><small>University of Oklahoma  <br> Oklahoma  </small></p>
+                    </div>
+                  </div>
                   </div>
                 </div>
             </div>
@@ -183,7 +226,7 @@
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start">
                 <strong class="d-inline-block mb-2 text-success">Speakers </strong>
-                   <div class="row speaker" onclick= "speaker('profile.php?id=15');" >
+                   <!-- <div class="row speaker" onclick= "speaker('profile.php?id=15');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/5.jpg" class="img-thumbnail rounded-circle " height="200" width="200">
                     </div>
@@ -191,7 +234,7 @@
                       <small><b>Dr. Abhijit Kushari </b><br></small>
                       <p style="line-height: 1em"><small> IIT Kanpur<br> India</small></p>
                     </div>
-                  </div>
+                  </div> -->
                    <div class="row speaker" onclick= "speaker('profile.php?id=16');" >
                      <div class="col-4">
                       <img src="./isepp2018/resources/drawable/speakers/1.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
@@ -261,7 +304,7 @@
                     </div>
                   </div>
 
-                  <div class="row speaker" onclick= "speaker('profile.php?id=29');">
+                  <div class="row speaker" onclick= "speaker('profile.php?id=32');">
                     <div class="col-4">
                       <img src="./images/isa/18.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                     </div>
@@ -284,13 +327,13 @@
 
                  
 
-                  <div class="row speaker" onclick= "speaker('profile.php?id=24');" >
+                  <div class="row speaker" onclick= "speaker('./docs/24.pdf');" >
                     <div class="col-4">
                       <img src="./images/basu.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                     </div>
                     <div class="col-8">
                       <small><b>Dr. S. Basu </b></small><br>
-                      <p style="line-height: 1em"><small>CSIRIMMT<br> India </small></p>
+                      <p style="line-height: 1em"><small>IISc<br> India </small></p>
                     </div>
                   </div>
 
@@ -305,11 +348,11 @@
                   </div>                
                   <div class="row speaker" onclick= "speaker('profile.php?id=26');" >
                     <div class="col-4">
-                      <img src="./images/46.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                      <img src="./isepp2018/resources/drawable/speakers/4.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                     </div>
                     <div class="col-8">
-                      <small><b>Dr. D. Chakraborty</b></small><br>
-                      <p style="line-height: 1em"><small>DRDL<br> India </small></p>
+                      <small><b>Dr. Ashoke De</b></small><br>
+                      <p style="line-height: 1em"><small>IIT Kanpur<br> India </small></p>
                     </div>
                   </div>
                   <div class="row speaker" onclick= "speaker('profile.php?id=27');" >
@@ -329,6 +372,25 @@
                     <div class="col-8">
                       <small><b>Dr.  Santanu De</b></small><br>
                       <p style="line-height: 1em"><small>IIT Kanpur <br> India    </small></p>
+                    </div>
+                  </div>
+                  <div class="row speaker" onclick= "speaker('profile.php?id=30');" >
+                    <div class="col-4">
+                      <img src="./images/sm1.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                    </div>
+                    <div class="col-8">
+                      <small><b>Dr. Sirshendu Mondal</b></small><br>
+                      <p style="line-height: 1em"><small>NIT
+                        Durgapur <br> India    </small></p>
+                    </div>
+                  </div>
+                  <div class="row speaker" onclick= "speaker('profile.php?id=35');" >
+                    <div class="col-4">
+                      <img src="./images/ssit.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                    </div>
+                    <div class="col-8">
+                      <small><b>Dr. Stefania Specchia</b></small><br>
+                      <p style="line-height: 1em"><small>Politecnico di Toino <br>  Italy   </small></p>
                     </div>
                   </div>
               </div>

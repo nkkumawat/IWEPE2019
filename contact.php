@@ -102,7 +102,7 @@
                               <img src="./isepp2018/resources/drawable/speakers/29.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col-8">
-                            <small><b>Dr. Vinod Kumar</b></small><br>
+                            <small><b>Prof. Vinod Kumar</b></small><br>
                               <small>Mechanical Engineering Department
                               <br>National Institute of Technology Kurukshetra
                               <br>Kurukshetra 136119
@@ -124,6 +124,49 @@
                       </div>
                     </div>
                   </div>
+
+
+
+
+
+
+
+                  <div class="row">
+                    <div class="card flex-md-row mb-4 box-shadow h-md-400">
+                      <div class="card-body student-card-body d-flex flex-column align-items-start">
+                        <strong class="d-inline-block mb-2 text-success">Student Body</strong>             
+                          <div class="row">
+                            <div class="col-4">
+                              <img src="./images/students/1.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col-8">
+                              <small><b>G. Sahana   </b></small><br>
+                              <small>National Institute of Technology Kurukshetra  <br> <a href="tel://8607918434">+91-8607918434 </a> <br> <a href="mailto:sahana.g2@gmail.com">sahana.g2@gmail.com</a>                            </small>
+                              <!-- <small><a</small> -->
+                            </div>
+                          </div>
+
+
+
+                           <div class="row">
+                             <div class="col-4">
+                              <img src="./images/students/9.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                            </div>
+                            <div class="col-8">
+                              <small><b>Kanika Singla </b></small><br>
+                              <small>National Institute of Technology Kurukshetra <br> <a href="tel://8168393540">+91-8168393540 </a> <br> <a href="mailto:singla.skanika@gmail.com">singla.skanika@gmail.com</a>                            </small>
+                              <!-- <small>fas</small> -->
+                            </div>
+                          </div>
+                           
+                      </div>
+                    </div>
+                  </div>
+
+
+
+
+
                 </div>
                 <!-- second half  -->
                 <div class="col-md-6">
@@ -240,28 +283,19 @@
                             </div>
                           </div>
                           <div class="row">
-                            <div class="col-4">
-                              <img src="./images/students/1.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
-                            </div>
-                            <div class="col-8">
-                              <small><b>G. Sahana   </b></small><br>
-                              <small>National Institute of Technology Kurukshetra  <br> <a href="tel://8607918434">+91-8607918434 </a> <br> <a href="mailto:sahana.g2@gmail.com">sahana.g2@gmail.com</a>                            </small>
-                              <!-- <small><a</small> -->
-                            </div>
-                          </div>
-
-
-
-                           <div class="row">
                              <div class="col-4">
-                              <img src="./images/students/9.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
+                              <img src="./images/students/24.jpg" class="img-thumbnail rounded-circle" height="200" width="200">
                             </div>
                             <div class="col-8">
-                              <small><b>Kanika Singla </b></small><br>
-                              <small>National Institute of Technology Kurukshetra <br> <a href="tel://8168393540">+91-8168393540 </a> <br> <a href="mailto:singla.skanika@gmail.com">singla.skanika@gmail.com</a>                            </small>
+                              <small><b>Brijesh </b></small><br>
+                              <small>National Institute of Technology Kurukshetra  <br> <a href="tel://7206268094">+91-8950534473 </a> <br> <a href="mailto:brijesh1998.verma@gmail.com">brijesh1998.verma@gmail.com</a>                            </small>
                               <!-- <small>fas</small> -->
                             </div>
                           </div>
+                          
+
+
+                           
                            
                       </div>
                     </div>

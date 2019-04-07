@@ -12,7 +12,7 @@
       <br><br>
       <p class="text-center font-weight-bold">Comming Soon</p>
       <br><br> -->
-      <div class="row mb-2">
+       <div class="row mb-2">
           <div class="col-md-12">
             <div class="row">
               <div class="card flex-md-row mb-4 box-shadow h-md-350">
@@ -25,9 +25,9 @@
 
                       We invite student researchers in the field of clean energy to submit abstracts for the posters presentation during the workshop.<br>
 
-                      The abstracts for the posters must follow the guidelines layed out in this <a href="./docs/ISEPP2018-PosterTemplate.docx">template</a>.<br>
+                      The abstracts for the posters must follow the guidelines layed out in this <a target="_blanck" href="./docs/IWEPE2019-PosterTemplate.docx">template</a>.<br>
 
-                      They must submitted by emailing them to <b class="text-primary">iwepe2019@nitkkr.ac.in </b>on or before <b class="text-primary">25th Feb 2019</b>. </small>
+                      They must submitted by emailing them to <b class="text-primary">iwepe2019@nitkkr.ac.in </b> or <b class="text-primary">iwepe@nitkkr.ac.in </b>on or before <b class="text-primary">05th March 2019</b>. </small>
 
 
                   </p>

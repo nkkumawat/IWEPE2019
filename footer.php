@@ -64,17 +64,18 @@ echo '<footer class="blog-footer">
 
 			
 	  	date_default_timezone_set('Asia/Kolkata');
-	  		$log_msg = getRealIpAddr(). " ". date('d-M-Y') ." " . date("h:i:sa"); 
+	  		$log_msg = getRealIpAddr(). " ". date('d-M-Y')." ".$_SERVER['REQUEST_URI'] ." " . date("h:i:sa"); 
 	  // 		foreach($_SERVER as $key => $value){
 			// 	$log_msg = $log_msg .' $_SERVER["'.$key.'"] = '.$value."\n";
 			// }
 			$log_msg = $log_msg . "\n";
+			// echo $log_msg;
 		    $log_filename = "log";
 		    if (!file_exists($log_filename)) 
 		    {
 		        mkdir($log_filename, 0777, true);
 		    }
-		    $log_file_data = $log_filename.'/log_.log';
+		    $log_file_data = $log_filename.'/log_'.date('d-M-Y').'.txt';
 		    file_put_contents($log_file_data, $log_msg . "\n", FILE_APPEND);
 		}
 		wh_log();
