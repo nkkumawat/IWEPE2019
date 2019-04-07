@@ -5,11 +5,34 @@ table>tbody>tr>td,table>thead>tr>th {
   padding-top: 0px !important;
   padding-bottom: 0px !important;
 }
+.back-theme-color {
+	background: radial-gradient(ellipse at right bottom, #2c2f4c 0%, #272946 64%, #0a0b19 121%);
+	padding: 10px !important;
+	color: white;
+}
+.tabl-sch>thead {
+	background: #edeeef;
+}
+.other-color {
+	background: pink;
+}
+.break-color {
+	background: yellow;
+}
+.tabl-sch , .tabl-sch>thead>tr>th , .tabl-sch>tbody>tr>td {
+  border: 1px solid black !important;
+}
 
 .student-card-body {
 	padding-right: 0px !important;
 }
-
+.sponsors-row {
+	padding-top: 12px;
+	padding-bottom: 5px;
+}
+.sp-r{
+	padding-right: 0px !important;;
+}
 
 .container {
 	margin-top: 0 !important;
@@ -117,6 +140,11 @@ footer {
 .underline-text  {
 	border-bottom: 3px solid  #03c9a9 ;
 }
+/*.text-primary , .text-success {
+	color: #03c9a9 !important;
+	-webkit-text-stroke: .1px black !important;
+	text-stroke: .1px black !important;
+}*/
 #navbar {
 	display: none;
 }

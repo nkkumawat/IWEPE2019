@@ -9,84 +9,456 @@
     <div class="container">
        
 
-      <br><br>
-      <p class="text-center font-weight-bold">Coming Soon</p>
-      <br><br>
+      <br><!-- 
+      <h4 class="text-primary font-weight-bold">SCHEDULE</h4><hr>
+      <br> -->
       <div class="row mb-2">
-          <div class="col-md-6">
-            <!-- <div class="row">
-              <div class="card flex-md-row mb-4 box-shadow h-md-350">
-                <div class="card-body d-flex flex-column align-items-start">
-                  <strong class="d-inline-block mb-2 text-primary">Chief Guest</strong>
-                  <div class="row">
-                    <div class="col">
-                      <img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200">
-                    </div>
-                    <div class="col">
-                      <img src="./images/uic.jpg" class="img-thumbnail" height="200" width="200">
-                    </div>
-                    <div class="col">
-                      <img src="./images/onr-global.jpg" class="img-thumbnail" height="200" width="200">
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col">
-                      <img src="./images/iit-kanpur.jpg" class="img-thumbnail" height="200" width="200">
-                    </div>
-                    <div class="col">
-                      <img src="./images/nsf.jpg" class="img-thumbnail" height="200" width="200">
-                    </div>
-                    <div class="col">
-                      <img src="./images/agr.jpg" class="img-thumbnail" height="200" width="200">
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
-             <div class="row">
-            <div class="card flex-md-row mb-4 box-shadow h-md-400">
-              <div class="card-body d-flex flex-column align-items-start">
-                <strong class="d-inline-block mb-2 text-success">NIT Kurukshetra</strong>
-                <p> <small>National Institute of Technology Kurukshetra (NITK) enjoys the reputation of being a centre of excellence, facilitating quality technical and management education, research and training. It has been conferred the status of being an Institution of National Importance. Established in the year 1963, NITK has made rapid strides toward excellence. The institute recognizes the significance of Institute-industry Interface and promotes interaction with the industry through student placements, consultancy services, joint research projects and jointly organizing workshops, seminars, conferences, etc. Further strengthening of this bond with the industry is currently a matter of priority for the institute. NITK offers undergraduate (B. Tech.) as well as post graduate (M. Tech.) programs in Civil, Computer Science, Electrical, Electronics and Communication, Mechanical Engineering, Production and Industrial Engineering, Information Technology and Master of Business Administration (MBA) – Marketing, Finance, Human Resource Management, Information Technology along with programs in Engineering, Technology, Applied Sciences, and Humanities & Social Sciences at doctorate level. The institute also offers excellent facilities for advanced research in the emerging areas of science and technology. </small> </p>
-              </div>
-            </div>
-          </div> -->
+        <div class="col-md-2"></div>
+          <div class="col-md-8">
+          <table class="table table-bordered table-responsive tabl-sch">
+              <thead>
+              <tr>
+                  <th colspan="3" class="text-center table-head back-theme-color">Sunday | March 17, 2019</th>
+              </tr>
+              <tr>
+                  <th class="text-center">Event</th>
+                  <th class="text-center">Time</th>
+                  <th class="text-center">Details</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                  <td>Registration <br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>08:30-10:00</td>
+                  <td>Welcome Tea and Registration</td>
+              </tr>
+              <tr>
+                  <td rowspan="3">Session-1:  GT Combustor<br><span class="text-danger">Venue: Senate Hall</span></td>
+                  <td>10:00-10:30</td>
+                  <td>
+                      Aerothermal Technologies in Low Emissions Combustors
+                        <br>
+                      <b>J. J. McGuirk
+                      </b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>10:30-11:00</td>
+                  <td>
+                      Effects of alternative fuel type on combustion in aircraft gas turbine combustors 
+                      <br>
+                      <b>Keiichi OKAI</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>11:00-11:30</td>
+                  <td>
+                      GE Aviation Low Emissions Combustion Technologies 
+                      <br>
+                      <b>Hiranya Nath</b>
+                  </td>
+              </tr>
+              <!-- <tr>
+                  <td>11:00 - 12:00</td>
+                  <td>
+                      Use of Dynamical Systems Approach for Early Detection of Lean Blowout in Gas Turbine Combustors
+                      <br>
+                      <b>Achintya Mukhopadhyay</b>
+                  </td>
+              </tr> -->
+              
+              <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Tea Break from 11:30 to 12:00 at Senate Hall
+                  </td>
+              </tr>
+              <tr>
+                  <td rowspan="2">Session-2: Biogas systems<br><span class="text-danger">Venue: Senate Hall</span></td>
+                  <td>12:00-12:30</td>
+                  <td>
+                      Research on the utilization of various biomasses in large scale power production
+                      <br>
+                      <b>Mikko Hupa</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>12:30-13:00</td>
+                  <td>
+                      Industrial-Size Biogas-Fed SOFC systems
+                      <br>
+                      <b>Massimo Santarelli</b>
+                  </td>
+              </tr>
+             <!--  <tr>
+                  <td>13:00-13:00</td>
+                  <td>
+                      Process intensification in biomass gasification systems: Increased efficiency at smaller scales 
+                      <br>
+                      <b>Klas Engvall</b>
+                  </td>
+              </tr> -->
+              <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Lunch Break from 13:00 to 14:00 at NIT Kurukshetra Guest House
+                  </td>
+              </tr>
+              <tr>
+                  <td rowspan="3">Session-3: Energy systems<br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>14:00-14:30</td>
+                  <td>
+                      Development of combustion based micro power generators
+                      <br>
+                      <b>Sudarshan Kumar</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>14:30-15:00</td>
+                  <td>
+                      Renewable Energy Derived from Water Hyacinth through Hydrothermal Treatment 
+                      <br>
+                      <b>Somrat Kerdsuwan</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>15:00-15:30</td>
+                  <td>
+                      Use of Dynamical Systems Approach for Early Detection of Lean Blowout in Gas Turbine Combustors
+                      <br>
+                      <b>Achintya Mukhopadhyay</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Tea Break from 15:30 to 16:00 at Senate Hall
+                  </td>
+              </tr>
+              
+              <tr class="other-color">
+                  <td rowspan="1">Poster Presentations <br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>16:00-17:30</td>
+                  <td>Poster Presentation</td>
+              </tr>
+              <tr class="other-color">
+                <td rowspan="1"><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>18:00-19:30</td>
+                  <td>Inaugural Session</td>
+              </tr>
+
+              <tr class="break-color">
+                  <td>Welcome Dinner</td>
+                  <td>19:30-21:30 </td>
+                  <td>Institute Guest House</td>
+              </tr>
+              </tbody>
+          </table>
         </div>
 
         <!-- second half  -->
-        <div class="col-md-6">
-         <!--   <div class="row">
-            <div class="card flex-md-row mb-4 box-shadow h-md-400">
-              <div class="card-body d-flex flex-column align-items-start">
-                <strong class="d-inline-block mb-2 text-success">The Workshop </strong>
-                <p> <small>National Institute of Technology (NIT) Kurukshetra and Terminal Ballistic Research Laboratory (TBRL) Chandigarh, are jointly organizing an International Workshop on Sustainable Energy, Power and Propulsion (ISEPP-2018) to be held at National Institute of Technology (NIT), Kurukshetra during March 18-22, 2018. This event will be organized in collaboration with Indian Institute of Technology (IIT) Kanpur, University of Maryland, College Park, University of Illinois at Chicago, Analytic & Computational Research Inc. USA. This is the 9th in a series of workshops on the broad theme of Energy, Power and Propulsion that started in 2004 with a review of the Status of Combustion in India and has evolved into a forum for the status of Sustainable Energy Development for Power and Propulsion worldwide.<br/>
-                For this year, the general theme is Clean Energy Production & Utilization. We expect to have contributions from world-renowned experts on topics that include Power, Propulsion, Pulse Detonation, Environmental Sustainability, Combustion, Emissions, Advanced Diagnostics etc. The program will comprise of a number of invited/plenary talks, panel sessions, a poster session and a session on research-in-progress. More than 150 delegates (International/ National) are expected to participate in this workshop. The workshop sponsors include ONR Global, NSF and DRDO. We also intend to collaborate with Springer and Begell House to bring out the proceedings in the form of a Research Monograph.</small> </p>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-                <div class="card flex-md-row mb-4 box-shadow h-md-350">
-                  <div class="card-body d-flex flex-column align-items-start">
-                    <strong class="d-inline-block mb-2 text-primary">Highlights</strong>
-                     <small> <ol> <li>Invited lectures by renowned experts in the field of energy and combustion from across the globe.</li>
-                      <li>Two days exclusive course covering basic fundamentals to advance research in the domain of energy conversion.</li>
-                     <li> Poster presentation competition for students.</li></ol></small>
-                  </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="card flex-md-row mb-4 box-shadow h-md-350">
-                  <div class="card-body d-flex flex-column align-items-start">
-                    <strong class="d-inline-block mb-2 text-primary">Who should attend?</strong>
-                     <small>  Researchers and engineers from academia, R&D organizations and industries working in the areas of fuels, energy, combustion, power, propulsion, hypersonics, air pollution, sensors and diagnostics, modeling, fossil- and bio-fuels, alternative energy, energy-water nexus, droplets and atomization, novel combustion concepts, engine combustion, gas turbine combustion, swirl flows and other related areas. </small>
-                  </div>
-                </div>
-            </div>  -->
-        </div>
+        <div class="col-md-2"></div>
         <!--  -->
       </div>
-    </div><br><br><br><br><br><br><br><br><br><br><br><br>
+
+      <div class="row mb-2">
+        <div class="col-md-2"></div>
+          <div class="col-md-8">
+          <table class="table table-bordered table-responsive tabl-sch">
+              <thead>
+              <tr>
+                  <th colspan="3" class="text-center back-theme-color ">Monday | March 18, 2019</th>
+              </tr>
+              <tr>
+                  <th class="text-center">Event</th>
+                  <th class="text-center">Time</th>
+                  <th class="text-center">Details</th>
+              </tr>
+              </thead>
+              <tbody>
+              <!-- <tr>
+                  <td>Registration <br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>08:30-09:30</td>
+                  <td>Welcome Tea and Registration</td>
+              </tr> -->
+              <tr>
+                  <td rowspan="2">Session-4:  High-speed propulsion system<br><span class="text-danger">Venue: Senate Hall</span></td>
+                  <td>09:00-09:30</td>
+                  <td>
+                      Towards Credible CFD Analysis of High-Speed Propulsion Systems 
+                        <br>
+                      <b>K. Kailasanath
+                      </b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>09:30-10:00</td>
+                  <td>
+                      Shock Wave Focusing 
+                      <br>
+                      <b>Mohammed Ibrahim. S</b>
+                  </td>
+              </tr>
+             
+              
+          
+              <tr>
+                  <td rowspan="2">Session-5: Reacting system-1<br><span class="text-danger">Venue: Senate Hall</span></td>
+                  <td>10:00-10:30</td>
+                  <td>
+                      How swirl flames interact in a multi-nozzle model gas turbine combustor 
+                      <br>
+                      <b>Swetaprovo Chaudhuri</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>10:30-11:00</td>
+                  <td>
+                      Improved Understanding of Mixed-Mode Combustion in Turbulent Flames 
+                      <br>
+                      <b>Assaad R. Masri</b>
+                  </td>
+              </tr>
+              
+              <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Tea Break from 11:00 to 11:30 at Senate Hall
+                  </td>
+              </tr>
+              <tr>
+                  <td rowspan="3">Session-6: Reacting system-2<br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>11:30-12:00</td>
+                  <td>
+                      Effect of composition variation on the Laminar Burning Velocity and flame stability of Natural Gas-like mixtures
+                      <br>
+                      <b>Anjan Ray</b>
+                  </td>
+              </tr>
+             
+              <tr>
+                  <td>12:00-12:30</td>
+                  <td>
+                      Lean domes’ fundamental challenges: operability, emissions, and dynamics 
+                      <br>
+                      <b>Xiao Ren, Xin Xue, Kyle B. Brady, Chih-Jen Sung, Hukam C. Mongia</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>12:30-13:00</td>
+                  <td>
+                      On applications of the stochastic multiple mapping conditioning approach to turbulent nonpremixed and premixed combustion 
+                      <br>
+                      <b>Santanu De </b>
+                  </td>
+              </tr>
+              <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Lunch Break from 13:00 to 14:00 at NIT Kurukshetra Guest House
+                  </td>
+              </tr>
+
+              <tr>
+                  <td rowspan="3">Session-7: Alternative Fuel<br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>14:00-14:30</td>
+                  <td>
+                      Alternative Aviation Fuels :- Current Status and Future
+                      <br>
+                      <b>Bhupendra Khandelwal</b>
+                  </td>
+              </tr>
+             
+              <tr>
+                  <td>14:30-15:00</td>
+                  <td>
+                      Aviation Biofuels Efficiency and The Impact to Climate Change 
+                      <br>
+                      <b>XYun Hin Taufiq-Yap</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>15:00-15:30</td>
+                  <td>
+                     Blowoff Characteristics of Laminar Partially Premixed Flames of Palm Methyl Ester/Jet-A Blends
+                      <br>
+                      <b>S. R. Golllahalli, T. Maleta and R. N. Parthasarathy</b>
+                  </td>
+              </tr>
+
+               <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Tea Break from 15:30 to 16:00 at Senate Hall
+                  </td>
+              </tr>
+              <!-- <tr>
+                  
+                  <td>16:00-16:30</td>
+                  <td>
+                      On applications of the stochastic multiple mapping conditioning approach to turbulent nonpremixed and premixed combustion
+                      <br>
+                      <b>Santanu De </b>
+                  </td>
+              </tr> -->
+             
+              <tr>
+                <td rowspan="1">Session-8: Combustion modeling<br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>16:00-16:30</td>
+                  <td>
+                      Modeling of compressible reacting flows using flamelets 
+                      <br>
+                      <b>Sudipto Mukhopadhyay</b>
+                  </td>
+              </tr>
+                      
+              <tr>
+                  <td rowspan="1">Session-9: <br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>16:30-17:30</td>
+                  <td>
+                      Scientific Writing Skill
+                      
+                      <br><span class="text-danger">(Springer)</span>
+                  </td>
+              </tr>        
+              <tr class="other-color">
+                  <td rowspan="1">Poster Presentations <br><span class="text-danger">Venue: Senate Hall</span> </td>
+                  <td>17:30-18:30</td>
+                  <td>
+                      Poster presentations
+                      <br>
+                      <!-- <br><span class="text-danger">(Springer)</span> -->
+                  </td>
+              </tr>
+              
+              <tr class="break-color">
+                  <td>Gala Dinner</td>
+                  <td>19:30-22.00</td>
+                  <td><span class="text-danger">Venue: Riyasat Resort</span></td>
+              </tr>
+              </tbody>
+          </table>
+        </div>
+
+        <!-- second half  -->
+        <div class="col-md-2"></div>
+        <!--  -->
+      </div>
+
+      <div class="row mb-2">
+        <div class="col-md-2"></div>
+          <div class="col-md-8">
+          <table class="table table-bordered table-responsive tabl-sch">
+              <thead>
+              <tr>
+                  <th colspan="3" class="text-center back-theme-color ">Tuesday | March 19, 2019</th>
+              </tr>
+              <tr>
+                  <th class="text-center">Event</th>
+                  <th class="text-center">Time</th>
+                  <th class="text-center">Details</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr>
+                  <td rowspan="4">Session-10: Reacting system-3<br><span class="text-danger">Venue: Senate Hall</span></td>
+                  <td>09:00-09:30</td>
+                  <td>
+                      Flow Dynamics in High Shear Injectors 
+                        <br>
+                      <b>Saptarshi Basu and R. Kuppuraj
+                      </b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>09:30-10:00</td>
+                  <td>
+                      Mitigation of thermo-acoustic instability using the concepts from synchronization theory
+                      <br>
+                      <b>Sirshendu Mondal</b>
+                  </td>
+              </tr>
+             
+              <tr>
+                  <td>10:00-10:30</td>
+                  <td>
+                      Interaction of Water Spray with Counter Flow Flame
+                      <br>
+                      <b>Swarnendu Sen</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>10:30-11:00</td>
+                  <td>
+                      Geometrical pattern analysis and comparison of solar receiver in parabolic dish concentrator  
+                      <br>
+                      <b>Sutapat Kwankaomeng</b>
+                  </td>
+              </tr>
+             
+              <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Tea Break from 11:00 to 11:30 at Senate Hall
+                  </td>
+              </tr>
+          
+              <tr>
+                  <td rowspan="5">Session-11: Transport Processes <br><span class="text-danger">Venue: Senate Hall</span></td>
+              </tr>
+              <tr>
+                  <td>11:30-12:00</td>
+                  <td>
+                      Recent Advances in Modeling Turbulent Transport in Porous Media 
+                      <br>
+                      <b>Marcelo J.S. de Lemos</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>12:00-12:30</td>
+                  <td>
+                      Methane lean combustion on Pd/Co3O4 catalyst lined on ZrO2 and SiC open cell foams 
+                      <br>
+                      <b>Stefania Specchia</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>12:30-13:00</td>
+                  <td>
+                      Performance Investigation of Hydro-Turbines
+                      <br>
+                      <b>R. S. Amano</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td>13:00-13:30</td>
+                  <td>
+                      Moving ahead from Hydrogen to Methanol Economy: Scope and challenges 
+                      <br>
+                      <b>Naveen Kumar</b>
+                  </td>
+              </tr>
+              <tr>
+                  <td colspan="3" class="text-center break-data-row break-color">
+                      Lunch Break from 13:30 to 14:30 at NIT Kurukshetra Guest House
+                  </td>
+              </tr>
+              <tr>
+                  <td rowspan="1">Panel Discussion &
+                Valedictory </td>
+                  <td>14:30-15:30</td>
+                  <td>
+                      <span class="text-danger">Venue: Senate Hall</span>
+                  </td>
+              </tr>            
+              <!-- 
+              <tr class="other-color">
+                  <td>Valedictory</td>
+                  <td>14:30-15:00</td>
+                  <td>Venue: Senate Hall</td>
+              </tr> -->
+              </tbody>
+          </table>
+        </div>
+
+        <!-- second half  -->
+        <div class="col-md-2"></div>
+        <!--  -->
+      </div>
+    </div>
     <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->

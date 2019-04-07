@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <?php require('header.php'); showHeader(10); ?>
+    <?php require('header.php'); showHeader(2); ?>
     <div class="container">
       <div class="row mb-2">
           <div class="col-md-12">
@@ -18,34 +18,32 @@
                     $sql = "SELECT * FROM speaker where id = '".$id."'";
                     $result = mysqli_query($conn,$sql);
                     if($ans=mysqli_fetch_assoc($result)) { ?>
-                               
-                              <div class="row">
-                                  <div class="col-md-4 col-sm-12">
-                                    <img src="<?php echo $ans['picture'] ?>" class="img-thumbnail" height="150" width="150">
-                                  </div>
-                                  <div class="col-md-8 col-sm-12 ">
-                                    <strong class="text-success "><?php echo $ans['topic'] ?></strong> 
-                                    <p><small> <b><?php echo $ans['name'] ?></b> <br>
-                                      <?php echo $ans['details'] ?><br>
-                                      Email: <?php echo $ans['email'] ?> </small>
-                                    </p>
-                                  </div>
-                                </div>
-                                <div class="row">
-                                  <div class="col-12">
-                                    <strong class="text-success ">BIO</strong> 
-                                    <p><small> <?php echo $ans['bio'] ?></small>
-                                    </p>
-                                  </div>
-                                  <div class="col-12 ">
-                                    <strong class="text-success ">Abstract </strong> 
-                                    <p> <small><?php echo $ans['abstract'] ?></small>
-                                    </p>
-                                  </div>
-                                   <div class="col-12 ">
-                                    <a href="<?php echo $ans['download_url'] ?>" class="float-right"> <img height="30" width = "30"  src="./images/dwn.jpg"></a>
-                                  </div>
-                                </div>    
+                       
+                        <div class="row">
+                          <div class="col-md-2">
+                            <img src="<?php echo $ans['picture'] ?>" class="img-thumbnail speaker-image-profile" width="150">
+                          </div>
+                          <div class="col-md-10">
+                            <strong class="text-success "><?php echo $ans['topic'] ?></strong> 
+                            <p><small> <b>Dr. <?php echo $ans['name'] ?></b> <br>
+                              <?php echo $ans['details'] ?><br>
+                              Email: <?php echo $ans['email'] ?> </small>
+                            </p>
+                          </div>
+                          <div class="col-md-12 "><br>
+                            <strong class="text-success ">BIO </strong> 
+                            <p> <small><?php echo $ans['bio'] ?></small>
+                            </p>
+                          </div>
+                          <div class="col-md-12 ">
+                            <strong class="text-success ">Abstract </strong> 
+                            <p> <small><?php echo $ans['abstract'] ?></small>
+                            </p>
+                          </div>
+                           <div class="col-md-12 ">
+                            <a href="<?php echo $ans['download_url'] ?>" class="float-right"> <img height="30" width = "30"  src="./images/dwn.jpg"></a>
+                          </div>
+                        </div>    
                        <?php  }
                         $conn->close(); ?>
                        
@@ -59,6 +57,7 @@
         <!--  -->
       </div>
     </div>
+
     <?php require('footer.php'); ?>
     <!-- Bootstrap core JavaScript
     ================================================== -->

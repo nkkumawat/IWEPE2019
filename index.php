@@ -9,11 +9,14 @@
     <div class="container">
       <div class="row mb-2">
           <div class="col-md-6">
+
+
             <div class="row">
               <div class="card flex-md-row mb-4 box-shadow h-md-350">
                 <div class="card-body d-flex flex-column align-items-start">
                   <strong class="d-inline-block mb-2 text-primary">Collaborators / Sponsors</strong>
-                  <div class="row">
+                  
+                  <div class="row sponsors-row">
                     <div class="col">
                       <a href="https://www.umd.edu/" target="_blank"><img src="./images/university-of-maryland.jpg" class="img-thumbnail" height="200" width="200"></a>
                     </div>
@@ -23,10 +26,17 @@
                     <div class="col">
                       <a href="https://www.onr.navy.mil/" target="_blank"><img src="./images/onr-global.jpg" class="img-thumbnail" height="300" width="200" ></a>
                     </div>
-                  </div>
-                  <div class="row">
                     <div class="col">
                       <a href="https://www.iitk.ac.in/" target="_blank"><img src="./images/iit-kanpur.jpg" class="img-thumbnail" height="200" width="200"></a>
+                    </div>
+                    <div class="col">
+                      <a href="https://www.tsi.com/" target="_blank"><img src="./images/tsi.png" class="img-thumbnail" height="200" width="200"></a>
+                    </div>
+                  </div>
+              
+                  <div class="row sponsors-row">
+                    <div class="col">
+                      <a href="https://riyasatresorts.weebly.com/" target="_blank"><img src="./images/riyasat.jpg" class="img-thumbnail" height="200" width="200"></a>
                     </div>
                     <div class="col">
                       <a href="https://www.nsf.gov/" target="_blank"><img src="./images/nsf.jpg" class="img-thumbnail" height="200" width="200"></a>
@@ -34,21 +44,33 @@
                     <div class="col">
                       <a href="https://acricfd.com" target="_blank"><img src="./images/agr.jpg" class="img-thumbnail" height="200" width="200"></a>
                     </div>
-                  </div>
-                  <div class="row">
-                    <div class="col">
+                     <div class="col">
                       <a href="http://www.teqip.in/" target="_blank"><img src="./images/teqip.png" class="img-thumbnail" height="200" width="200"></a>
                     </div>
                     <div class="col">
                       <a href="http://www.lpsindia.com/" target="_blank"><img src="./images/lps.png" class="img-thumbnail" height="200" width="200"></a>
                     </div>
-                    <div class="col">
-                      
-                    </div>
                   </div>
+                  <div class="row sponsors-row">
+                    <div class="col " >
+                      <a  href="https://new.siemens.com/" target="_blank"><img src="./images/siem.jpg" class="img-thumbnail" height="200" width="200"></a>
+                    </div>
+
+                    <div class="col">
+                      <a  href="https://www.drdo.gov.in/drdo/English/index.jsp?pg=homebody.jsp" target="_blank"><img src="./images/drdo.png" class="img-thumbnail" height="200" width="200"></a>
+                    </div>
+                    <div class="col"></div>
+                    <div class="col"></div>
+                    <div class="col"></div>
+                  </div>
+                 
                 </div>
               </div>
             </div>
+
+
+
+
              <div class="row">
             <div class="card flex-md-row mb-4 box-shadow h-md-400">
               <div class="card-body d-flex flex-column align-items-start text-justify">

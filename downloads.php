@@ -12,12 +12,13 @@
               <div class="card flex-md-row mb-4 box-shadow h-md-350">
                 <div class="card-body d-flex flex-column align-items-start">
                   <strong class="d-inline-block mb-2 text-success">Downloads</strong>
+                  
                   <ul>
-                   <li> <a href="./docs/IWEPE2019-RegistrationForm.pdf">Registration Form</a></li>
-                    <li><a href="./docs/IWEPE2019-SBICollect.pdf">Guidelines to Pay</a></li>
-                    <li><a href="./docs/Hotels.pdf">List of Hotels</a></li>
-                    <li><a href="./docs/ISEPP Book.pdf">Abstract Book of ISEPP 2018</a></li>
-                    <li><a href="./docs/IWEPE BROCHURE NEW.pdf">Brochure IWEPE 2019</a></li>
+                   <li> <a target="_blank" href="./docs/IWEPE2019-RegistrationForm.pdf">Registration Form</a></li>
+                    <li><a target="_blank" href="./docs/IWEPE2019-SBICollect.pdf">Guidelines to Pay</a></li>
+                    <li><a target="_blank" href="./docs/Hotels.pdf">List of Hotels</a></li>
+                    <li><a target="_blank" href="./docs/ISEPP Book.pdf">Abstract Book of ISEPP 2018</a></li>
+                    <li><a target="_blank" href="./docs/IWEPE BROCHURE NEW.pdf">Brochure IWEPE 2019</a></li>
                   </ul>
                 </div>
               </div>
